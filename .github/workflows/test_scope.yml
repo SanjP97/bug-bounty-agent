@@ -1,0 +1,56 @@
+name: Manual Test Scope Trigger
+
+on:
+  workflow_dispatch:
+    inputs:
+      domain:
+        description: "Test target domain"
+        required: true
+        default: "testphp.vulnweb.com"
+        type: string
+      program:
+        description: "Program name"
+        required: true
+        default: "manual-test"
+        type: string
+      platform:
+        description: "Platform"
+        required: true
+        default: "manual"
+        type: choice
+        options:
+          - manual
+          - hackerone
+          - bugcrowd
+
+jobs:
+  trigger-test-scope:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show inputs
+        run: |
+          echo "Domain: ${{ inputs.domain }}"
+          echo "Program: ${{ inputs.program }}"
+          echo "Platform: ${{ inputs.platform }}"
+
+      - name: Call Kali webhook
+        run: |
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "${{ secrets.KALI_WEBHOOK_URL }}/webhook/new-scope" \
+            -H "Content-Type: application/json" \
+            -H "x-webhook-secret: ${{ secrets.WEBHOOK_SECRET }}" \
+            -d '{
+              "domain": "${{ inputs.domain }}",
+              "program": "${{ inputs.program }}",
+              "platform": "${{ inputs.platform }}"
+            }')
+
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | head -n1)
+
+          echo "Response: $BODY"
+          echo "HTTP Status: $HTTP_CODE"
+
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "Webhook call failed"
+            exit 1
+          fi
