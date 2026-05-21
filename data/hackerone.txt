@@ -1,0 +1,3756 @@
+SUPERAPP (AOS)
+SUPERAPP (IOS)
+ads-partners.tw.coupang.com
+cart-front-api.tw.coupang.com
+cart.tw.coupang.com
+cash.tw.coupang.com
+checkout.tw.coupang.com
+cmapi.tw.coupang.com
+dco.tw.coupang.com
+developers.tw.coupangcorp.com
+feed-web.tw.coupang.com
+fileupload-video.tw.coupang.com
+fileupload.tw.coupang.com
+fintech-aml-kyc-tw.coupang.com
+go-cms.tw.coupang.com
+helpcenter-tw.coupangcorp.com
+helpseller.tw.coupangcorp.com
+id.tw.coupang.com
+influencers.tw.coupang.com
+link.tw.coupang.com
+ljc-test.tw.coupang.com
+ljc.tw.coupang.com
+logs-partners.tw.coupang.com
+loyalty.tw.coupang.com
+m.tw.coupang.com
+marketplace.tw.coupangcorp.com
+mauth.tw.coupang.com
+mc.tw.coupang.com
+member.tw.coupang.com
+my.tw.coupang.com
+myself.tw.coupang.com
+notification-front-web.tw.coupang.com
+pages.tw.coupang.com
+partners.tw.coupang.com
+pay.tw.coupang.com
+payment.tw.coupang.com
+promo.tw.coupang.com
+reco.tw.coupang.com
+review.tw.coupang.com
+rs-open-api.tw.coupang.com
+shop.tw.coupang.com
+store-display.tw.coupang.com
+syndication.tw.coupang.com
+tw.coupang.com
+tw.coupangcorp.com
+tw.coupangls.com
+www.tw.coupang.com
+Any host/web property verified to be owned by Twilio et al.
+Twilio APIs
+api.segment.io
+api.sendgrid.com
+api.twilio.com
+app.segment.com
+app.sendgrid.com
+http://help.twilio.com
+http://tsock.us1.twilio.com
+http://twilio.com/blog
+https://segment.com/docs/connections/sources/
+https://www.authy.com/download/
+https://www.authy.com/download/
+https://www.twilio.com/docs/authy/api
+https://www.twilio.com/docs/libraries
+https://www.twilio.com/docs/verify/api
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
+mc.sendgrid.com
+sendgrid.com
+signup.sendgrid.com
+smtp.sendgrid.net
+com.dd.doordash
+doordash.DoorDashConsumer
+www.doordash.com
+1634080733
+6462308655
+938003185
+Id1406825640
+Tier 3
+api.robinhood.com
+cashier.robinhood.com
+com.robinhood.android
+com.robinhood.gateway
+com.robinhood.global Android
+com.robinhood.money
+fusion.tradepmr.com
+identi.robinhood.com
+insight2.tradepmr.com
+minerva.robinhood.com
+net.bitstamp.app
+nummus.robinhood.com
+www.bitstamp.net
+www.tradepmr.com
+Tier 1
+Tier 2
+Tier 3
+https://github.com/nitrojs/nitro
+https://github.com/nuxt/nuxt
+https://github.com/sveltejs/svelte
+https://github.com/vercel-labs/agent-skills
+https://github.com/vercel-labs/skills
+https://github.com/vercel/ai
+https://github.com/vercel/async-sema
+https://github.com/vercel/flags
+https://github.com/vercel/ms
+https://github.com/vercel/next.js
+https://github.com/vercel/swr
+https://github.com/vercel/turborepo
+https://github.com/vercel/vercel
+https://github.com/vercel/workflow
+1w.cash
+1w.run
+1win.com
+Deposit/Withdraw
+https://1win.com/betting
+https://1win.com/casino
+dif.tech.plata
+id6443932656
+NetScaler AAA
+NetScaler ADC
+NetScaler Gateway
+1457958492
+admin.meeshosupply.com
+affiliate.meesho.com
+com.meesho.supply
+com.valmo.valmo
+investor.meesho.com
+meesho.io
+prod.meeshoapi.com
+superstoreapp.meesho.com
+supplier.meesho.com
+www.meesho.com
+www.valmo.in
+https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
+GitHub Actions in our Public Repositories 
+Insomnia CLI (inso)
+Insomnia Desktop Client
+Kong Gateway Enterprise
+Kong Gateway OSS
+Kong Gateway Plugins (Kong-Supported Only)
+Kong Mesh
+Subdomain Takeover - konghq.com
+developer.konghq.com
+http://cloud.konghq.com
+https://app.insomnia.rest/
+konghq.com
+WHOOP 4.0 STRAP
+WHOOP 5.0/MG STRAP
+api.prod.whoop.com
+app.whoop.com
+com.whoop.android
+com.whoop.iphone
+join.whoop.com
+shop.whoop.com
+Customer Connected Domain
+Customer Portal
+HubSpot Android Mobile App
+HubSpot Sales Office 365 add-in
+HubSpot iOS Mobile App
+Other HubSpot-owned (sub)domains not listed as Out of Scope
+chatspot.ai
+hubspot.net
+A16k
+A76
+A96
+ColorOS
+F 21 Pro
+FindN2
+FindN2Flip
+FindN3
+FindN3Flip
+FindX6
+FindX6Pro
+FindX7
+FindX7Ultra
+K10
+K105G
+K9
+K9Pro
+K9s
+Low Level Properties and Test environment
+NARZO 80 Lite 4G
+NARZO 80 Pro 5G
+NARZO 80x 5G
+Narzo 80 lite 5G
+Porsche-B
+Reno 9 5G
+Reno105G
+Reno10Pro+5G
+Reno10Pro5G
+Reno115G
+Reno11Pro5G
+Reno12
+Reno12Pro
+Reno8Pro5G
+Reno9Pro+5G
+Reno9Pro5G
+com.coloros.assistantscreen
+com.coloros.findmyphone
+com.coloros.pictorial
+com.coloros.video
+com.coloros.wallet
+com.finshell.finance
+com.finshell.wallet
+com.fintech.life
+com.heytap.book
+com.heytap.browser
+com.heytap.cloud
+com.heytap.databaseengine
+com.heytap.health.international
+com.heytap.health.quickapp
+com.heytap.heymelody
+com.heytap.mall
+com.heytap.market
+com.heytap.miniapp.sports
+com.heytap.music
+com.heytap.ocsp.client
+com.heytap.pictorial
+com.heytap.reader
+com.heytap.research
+com.heytap.store
+com.heytap.tas
+com.heytap.themestore
+com.heytap.wallet
+com.heytap.wearable.breeno
+com.heytap.wearable.browser
+com.heytap.wearable.elves
+com.heytap.wearable.healthassessment
+com.heytap.wearable.market
+com.heytap.wearable.research
+com.heytap.wearable.themestore
+com.heytap.xgame
+com.katanlabs.bubblepop
+com.katanlabs.matchballgame
+com.katanlabs.worm.ioeatemall
+com.nearme.gamecenter
+com.netease.my.nearme.gamecenter
+com.oplus.accesscard
+com.oplus.account
+com.oplus.aimemory
+com.oplus.games
+com.oplus.melody
+com.oplus.play
+com.oplus.studycenter
+com.oplus.themestore
+com.oppo.market
+com.oppo.quicksearchbox
+com.oppo.speechassist
+com.oppo.store
+com.qpon.merchant
+com.qpon.platform
+com.realme.storecn
+com.realmestore.app
+com.shopai.apps
+http://open.oppomobile.com
+https://c.realme.com/eg/
+https://c.realme.com/global/
+https://c.realme.com/id/
+https://c.realme.com/in/
+https://c.realme.com/ru/
+https://cloud.oppo.com/
+https://community.oppo.com/
+https://communityin.oppo.com/
+https://developers.oppomobile.com/
+https://drp.myoppo.com/
+https://e-global.heytap.com/marketing/login
+https://e.oppo.com/
+https://gcsm.oppoit.com/
+https://safe.heytap.com/
+https://u.oppomobile.com/
+https://www.coloros.com/
+https://www.oppo.com/id/store
+https://www.oppo.com/in/store
+https://www.oppo.com/my/store
+https://www.oppo.com/th/store
+https://www.opposhop.cn/
+https://www.opposhop.cn/m/
+https://zhongbao-ear.heytap.com/
+https://zhongbao.heytap.com/
+id.heytap.com
+id.oppo.com
+opposhop.cn
+realme 15 5G
+realme 15 Pro 5G
+realme 15T
+realme C71
+realme C75 5G
+realme GT6
+realme GT6T
+realme GT7
+realme GT7Pro
+realme GT7T
+realme Note 70
+realme P1 speed
+realme P3 Lite 5G
+realme P4 5G
+realme P4 Pro 5G
+https://bugbounty-ctf.1password.com/
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
+http://--your-own-1password-account--.1password.com
+https://events.1password.com/api/
+Arc on Mac
+Arc on Windows
+Dia Assistant
+Dia Browser
+arc.net
+bcny.com
+company.thebrowser.arc
+diabrowser.com
+id6472513080
+thebrowser.company
+https://apps.apple.com/us/app/verily-me/id6448808133
+https://play.google.com/store/apps/details?id=com.verily.me
+https://console-stage.neon.build/
+https://console.neon.tech/
+https://console.neon.tech/api/v2/
+http://bumba.global
+Starbucks Japan Android
+Starbucks Japan iOS
+cart.starbucks.co.jp
+gift.starbucks.co.jp
+login.starbucks.co.jp
+www.cart.starbucks.co.jp/
+www.starbucks.co.jp
+Starbucks China Android
+Starbucks China iOS
+www.starbucks.com.cn/
+alfred-uat-31.nonprod.syfe.com
+alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
+com.syfe
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+mark8.syfe.com
+uat-bugbounty.nonprod.syfe.com
+www.syfe.com
+aces-dev.wnba.com
+aces-qa.wnba.com
+aces-qa2.wnba.com
+aces.wnba.com
+adb.nba.com
+auth-identity-dev-ping.nba.com
+auth-identity-dev.nba.com
+auth-identity-ping.nba.com
+auth-identity-qa-ping.nba.com
+auth-identity-qa.nba.com
+auth-identity-uat-ping.nba.com
+auth-identity-uat.nba.com
+auth-identity.nba.com
+bal-dev.nba.com
+bal-qa.nba.com
+bal-uat.nba.com
+bal.nba.com
+br.nba.com
+cares.nba.com
+cdn-bal.nba.com
+cdn.nba.com
+cl.nba.com
+cms.nba.com
+com.nbaimd.gametime.nba2011
+com.nbaimd.gametime.universal
+content-api-dev.nba.com
+content-api-nextgen-dev.nba.com
+content-api-nextgen-prod.nba.com
+content-api-nextgen-qa.nba.com
+content-api-nextgen-uat.nba.com
+content-api-prod.nba.com
+content-api-qa.nba.com
+content-api-sandbox.nba.com
+content-api-uat.nba.com
+core-api-aws-dev.nba.com
+core-api-aws-prod-east1.nba.com
+core-api-aws-prod.nba.com
+core-api-aws-qa.nba.com
+core-api-aws-uat.nba.com
+core-api-dev.nba.com
+core-api-devint.nba.com
+core-api-qa.nba.com
+core-api-sandbox.nba.com
+core-api-uat-uc.nba.com
+core-api-uat.nba.com
+core-api-uc.nba.com
+core-api.nba.com
+corp-dev.nba.com
+cweb-ott-aws-qa.nba.com
+cweb-ott-aws-uat-uw2.nba.com
+cweb-ott-aws-uat.nba.com
+cweb-ott-dev-aws.nba.com
+cweb-ott-dev-preview.nba.com
+cweb-ott-dev.nba.com
+cweb-ott-devint.nba.com
+cweb-ott-preview.nba.com
+cweb-ott-qa-aws.nba.com
+cweb-ott-qa-preview.nba.com
+cweb-ott-qa.nba.com
+cweb-ott-uat-preview.nba.com
+cweb-ott-uat-uc-preview.nba.com
+cweb-ott-uat-uc.nba.com
+cweb-ott-uc-preview.nba.com
+cweb-ott-uc.nba.com
+cweb-ott.nba.com
+cweb-qa-aws-preview.nba.com
+cweb-slot1-ott-dev.nba.com
+cweb-slot2-ott-dev.nba.com
+cweb-slot3-ott-dev.nba.com
+cweb-slot4-ott-dev.nba.com
+cweb-slot5-ott-dev.nba.com
+cweb-slot6-ott-dev.nba.com
+cweb-slot6-preview-ott-dev.nba.com
+dream-dev.wnba.com
+dream-qa.wnba.com
+dream-qa2.wnba.com
+dream.wnba.com
+elm.nba.com
+fever-dev.wnba.com
+fever-qa.wnba.com
+fever-qa2.wnba.com
+fever.wnba.com
+fire-dev.wnba.com
+fire-qa.wnba.com
+fire.wnba.com
+gamenotes.nba.com
+gleague-dev.nba.com
+gleague-qa.nba.com
+gleague.nba.com
+grae.nba.com
+id.nba.com
+identity-dev.nba.com
+identity-ng.nba.com
+identity-ping.nba.com
+identity-qa.nba.com
+identity-server-dev.nba.com
+identity-server-ping-dev.nba.com
+identity-server-ping-qa.nba.com
+identity-server-ping-uat.nba.com
+identity-server-ping.nba.com
+identity-server-qa.nba.com
+identity-server-uat.nba.com
+identity-server.nba.com
+identity-uat.nba.com
+identity.nba.com
+liberty-dev.wnba.com
+liberty-qa.wnba.com
+liberty-qa2.wnba.com
+liberty.wnba.com
+lockervision.nba.com
+login-dev.nba.com
+login-qa.nba.com
+login-sandbox.nba.com
+login-uat.nba.com
+login.nba.com
+lynx-dev.wnba.com
+lynx-qa.wnba.com
+lynx-qa2.wnba.com
+lynx.wnba.com
+manage-dev.nba.com
+manage-teams-dev.nba.com
+manage-teams-qa.nba.com
+manage-teams-uat.nba.com
+manage-teams.nba.com
+manage-uat.nba.com
+manage.nba.com
+mcd-dev.nba.com
+mcd-devint.nba.com
+mcd-perf.nba.com
+mcd-qa.nba.com
+mcd-uat.nba.com
+mcd.nba.com
+mcdalerts-dev.nba.com
+mcdalerts-devint.nba.com
+mcdalerts-perf.nba.com
+mcdalerts-qa.nba.com
+mcdalerts-uat.nba.com
+mcdalerts.nba.com
+mercury-dev.wnba.com
+mercury-qa.wnba.com
+mercury-qa2.wnba.com
+mercury.wnba.com
+mystics-dev.wnba.com
+mystics-qa.wnba.com
+mystics-qa2.wnba.com
+mystics.wnba.com
+nbafedsvc-dev.nba.com
+nbafedsvc-qa.nba.com
+nbafedsvc.nba.com
+portland-dev.wnba.com
+portland-qa.wnba.com
+portland.wnba.com
+sky-dev.wnba.com
+sky-qa.wnba.com
+sky-qa2.wnba.com
+sky.wnba.com
+socialimpact.nba.com
+sparks-dev.wnba.com
+sparks-qa.wnba.com
+sparks-qa2.wnba.com
+sparks.wnba.com
+stats-dev.nba.com
+stats-qa.nba.com
+stats-trafficcop-aws-dev.nba.com
+stats-trafficcop-aws-prod-east1.nba.com
+stats-trafficcop-aws-prod.nba.com
+stats-trafficcop-aws-qa.nba.com
+stats-trafficcop-aws-uat.nba.com
+stats-trafficcop-dev.nba.com
+stats-trafficcop-prod.nba.com
+stats-trafficcop-qa.nba.com
+stats-trafficcop-uat.nba.com
+stats.gleague.nba.com
+stats.nba.com
+stats.wnba.com
+storm-dev.wnba.com
+storm-qa.wnba.com
+storm-qa2.wnba.com
+storm.wnba.com
+sun-dev.wnba.com
+sun-qa.wnba.com
+sun-qa2.wnba.com
+sun.wnba.com
+syndication.nba.com
+teamdirectory.nba.com
+teamportal.nba.com
+tempo-dev.wnba.com
+tempo-qa.wnba.com
+tempo.wnba.com
+valkyries-dev.wnba.com
+valkyries-qa.wnba.com
+valkyries.wnba.com
+vote.nba.com
+vth.nba.com
+wings-dev.wnba.com
+wings-qa.wnba.com
+wings-qa2.wnba.com
+wings.wnba.com
+www-dev.nba.com
+www-dev.wnba.com
+www-ng.nba.com
+www-qa.nba.com
+www-qa.wnba.com
+www-uat.nba.com
+www.nba.com
+www.wnba.com
+api.circle.com
+app.circle.com
+console.circle.com
+http://github.com/circlefin/noble-cctp
+https://github.com/circlefin/aptos-cctp
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/arc-remote-signer
+https://github.com/circlefin/buidl-wallet-contracts
+https://github.com/circlefin/evm-cctp-contracts
+https://github.com/circlefin/evm-cpn-contracts
+https://github.com/circlefin/evm-gateway-contracts
+https://github.com/circlefin/evm-xreserve-contracts
+https://github.com/circlefin/malachite
+https://github.com/circlefin/noble-fiattokenfactory
+https://github.com/circlefin/solana-cctp-contracts
+https://github.com/circlefin/solana-gateway-contracts
+https://github.com/circlefin/stablecoin-aptos
+https://github.com/circlefin/stablecoin-evm
+https://github.com/circlefin/stablecoin-near
+https://github.com/circlefin/stablecoin-starknet
+https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/stablecoin-xlm
+https://github.com/circlefin/starknet-cctp
+https://github.com/circlefin/stellar-cctp
+https://github.com/circlefin/sui-cctp
+rpc.blockdaemon.testnet.arc.network
+rpc.drpc.testnet.arc.network
+rpc.quicknode.testnet.arc.network
+rpc.testnet.arc.network
+Klarna Android App (com.myklarnamobile)
+Klarna iOS App (com.klarna.app)
+Merchant Portal
+api.klarna.com
+app.klarna.com
+js.klarna.com
+klarna.com
+klarna.net
+klarnacdn.net
+portal.openbanking.playground.klarna.com
+pricerunner.com
+xs2a.banking.playground.klarna.com
+[Unico] Liveness Bypass
+accountshomolog.acesso.io
+backend-sdk.uat.private.unico.run
+blog.unico.io
+devcenter.unico.io
+https://sdk-h1.unico.io/createprocess
+idcash-uat.unico.io
+identityhomolog.acesso.io
+idpay-uat.unico.io
+issuer.idpay-uat.unico.io
+openfinance.unico.io
+secure.unico.io
+unico.io
+Crypto infrastructure for cold and hot wallets
+p2p.walletbot.me
+pay.wallet.tg
+wallet.tg
+walletbot.me
+wallettg.com
+wallettg.net
+api.vault.chiatest.net
+https://apps.apple.com/app/chia-signer/id6504493785 
+https://github.com/Chia-Network/chia-blockchain
+https://github.com/Chia-Network/chia-blockchain-gui
+https://github.com/Chia-Network/chia_rs
+https://github.com/Chia-Network/chiapos
+https://github.com/Chia-Network/chiavdf
+https://github.com/Chia-Network/clvm_rs
+https://vault.chiatest.net/
+3CX Live chat WordPress plugin
+3CX Phone System
+3CX SBC
+Other
+https://apps.apple.com/us/app/3cx/id992045982
+https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
+https://play.google.com/store/apps/details?id=com.tcx.sipphone14
+https://portal.3cx.com
+@privy-io controlled namespace dependencies
+api.privy.io
+auth.privy.io
+dashboard.privy.io
+home.privy.io
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/react-auth
+https://www.npmjs.com/package/@privy-io/wagmi
+recovery.privy.io
+Affiliates or entities such as recently acquired companies
+Content Authorization Targets
+Content authorization vulnerabilities affecting only the in-browser player
+Corporate Assets
+Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
+Microsites
+Netflix Gaming Target
+Netflix Mobile Application for Android
+Netflix Mobile Application for iOS
+Open Source - Atlas
+Open Source - Spectator
+Open Source - Zuul
+Secondary Assets
+beacon.netflix.com
+customerevents.netflix.com
+help.netflix.com
+ichnaea.netflix.com
+meechum.netflix.com
+nmtracking.netflix.com
+presentationtracking.netflix.com
+secure.netflix.com
+www.netflix.com
+23andmeresearchinstitute.org
+api.23andme.com
+auth.23andme.com
+blog.23andme.com
+discover.23andme.com
+education.23andme.com
+fulfillment.23andme.com
+mediacenter.23andme.com
+medical.23andme.com
+merch.23andme.com
+portal.23andme.com
+refer.23andme.com
+research.23andme.com
+store.23andme.com
+style.23andme.com
+trust.23andme.com
+www.23andme.com
+you.23andme.com
+379693831
+com.audible.application
+tax.audible.com
+1641486558
+com.einnovation.temu
+seller.temu.com
+www.temu.com
+app.uma.money
+http://api.lightspark.com
+http://app.lightspark.com
+https://github.com/buildonspark/spark
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
+https://link.uma.me
+lightsparkdev/flutter-sdk
+lightsparkdev/js-sdk
+lightsparkdev/kotlin-sdk
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/swift-wallet-sdk
+http://testnet.bybit.eu
+http://www.bybit.com/en/alpha/overview/
+http://www.bybit.com/trade/tradfi/
+http://www.byreal.io
+https://apps.apple.com/us/app/bybit-app/id1488296980
+https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+<locale>.trip.com
+app.blueskytravelvietnam.com
+com.trip.android
+com.trip.ios
+1351179184
+bykea.com
+com.bykea.pk
+com.bykea.pk.partner
+https://api.bykea.net
+https://geocode-beta.bykea.net
+https://leaflet-map.bykea.net
+https://maps.bykea.net
+https://nominatim.bykea.net
+tomoe.bykea.net
+API & SDKs
+Claude Code
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
+Infrastructure & Internal Apps/Services
+Leaked Employee API Keys
+Official Clients
+anthropic.atlassian.com
+api.anthropic.com
+claude.ai
+console.anthropic.com
+docs.anthropic.com
+github.com/anthropics
+support.anthropic.com
+Main corporate site
+Other related e-commerce services
+Recruitment services
+e-Commerce
+admin-portal.api-xperience.com
+api.prod.innovexperiments.com
+app.demand.cybersource.com
+askpeopleteam.visa.com
+aw.visa.com
+bb.visa.com
+bd.visa.com
+bm.visa.com
+bq.visa.com
+capability.prod.innovexperiments.com
+codeofconduct.visa.com
+console.tink.com
+cw.visa.com
+cybersourcebouncebacks.visa.com
+developer.authorize.net
+developer.currencycloud.com
+developer.cybersource.com
+developer.visa.com
+developers.pismo.io
+direct-demo.currencycloud.com
+dwy.visa.com
+ebctest.cybersource.com
+experience.prod.innovexperiments.com
+forms.cybersource.com
+garp.visa.com
+ht.visa.com
+http://myvisainfinite.com/suntrust/en_us/home.html
+http://www.myvisacardportal.com/welcome/enbd/product/#
+https://ebctest.cybersource.com/CGK2
+https://ebctest.cybersource.com/bin
+https://ebctest.cybersource.com/boarding/v1/registrations
+https://ebctest.cybersource.com/boarding/v1/templates
+https://ebctest.cybersource.com/casemanagement
+https://ebctest.cybersource.com/cds/
+https://ebctest.cybersource.com/dmconfigapi
+https://ebctest.cybersource.com/epcapi
+https://ebctest.cybersource.com/identity
+https://ebctest.cybersource.com/invoicing
+https://ebctest.cybersource.com/jobs
+https://ebctest.cybersource.com/kms/
+https://ebctest.cybersource.com/listmanager
+https://ebctest.cybersource.com/merchant-mgmt/
+https://ebctest.cybersource.com/merchantvelocity
+https://ebctest.cybersource.com/mms
+https://ebctest.cybersource.com/notification-subscriptions
+https://ebctest.cybersource.com/oms
+https://ebctest.cybersource.com/partner
+https://ebctest.cybersource.com/payerauthentication
+https://ebctest.cybersource.com/payment
+https://ebctest.cybersource.com/pbl
+https://ebctest.cybersource.com/prcs
+https://ebctest.cybersource.com/prefs
+https://ebctest.cybersource.com/processorconfigapi
+https://ebctest.cybersource.com/products/virtual-terminal
+https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
+https://ebctest.cybersource.com/pts/v2
+https://ebctest.cybersource.com/reporting
+https://ebctest.cybersource.com/riskui
+https://ebctest.cybersource.com/saconfig
+https://ebctest.cybersource.com/sms
+https://ebctest.cybersource.com/tech-partner-integration
+https://ebctest.cybersource.com/tms
+https://ebctest.cybersource.com/tss
+https://ebctest.cybersource.com/ums
+https://ebctest.cybersource.com/vdm
+https://ebctest.cybersource.com/vts
+https://solutions.visaacceptance.com/subscription
+https://www.visa.com.az/az_az/account/registration
+images.demand.cybersource.com
+infinite.visa.fr
+info.authorize.net
+info.cybersource.com
+merchantsignage.visa.com
+merchantsignageap.visa.com
+merchantsignageca.visa.com
+merchantsignageeu.visa.com
+merchantsignageglobal.visa.com
+merchantsignagejp.visa.com
+my.visa.fr
+myvu.visauniversity.com
+releasor.payworks.com/
+sandbox.authorize.net
+sandbox.secure.checkout.visa.com
+sap.api-xperience.com
+test.payworks.io
+testbank.xs2a.com
+usa.visa.com
+vasdemos.visa.com
+vdam.visa.com
+vgov.catalogue.digitalcontrolroom.com
+visa.co.cr
+visa.co.ni
+visa.co.za
+visa.com.au
+visa.com.bo
+visa.com.jm
+visa.com.ru
+visa.com.ua
+visainnovationprogram.com
+visaonchainanalytics.com
+visasgic.api-xperience.com
+vwcm.visa.com
+www.authorize.net
+www.cardinalcommerce.com
+www.currencycloud.com
+www.cybersource.com
+www.fraedom.com
+www.practicalbusinessskills.org
+www.practicalmoneyskills.com
+www.practicalmoneyskills.org
+www.tink.com
+www.trialpay.com
+www.visa.co.ao
+www.visa.co.id
+www.visa.co.il
+www.visa.co.in
+www.visa.co.jp
+www.visa.co.ke
+www.visa.co.nz
+www.visa.co.th
+www.visa.co.uk
+www.visa.co.ve
+www.visa.com.az
+www.visa.com.br
+www.visa.com.cn
+www.visa.com.cy
+www.visa.com.ge
+www.visa.com.hk
+www.visa.com.hr
+www.visa.com.kh
+www.visa.com.kz
+www.visa.com.lc
+www.visa.com.lk
+www.visa.com.ms
+www.visa.com.mx
+www.visa.com.my
+www.visa.com.ng
+www.visa.com.ph
+www.visa.com.sg
+www.visa.com.tr
+www.visa.com.tw
+www.visa.com.vn
+www.visa.fr
+www.visainfinite.ca
+www.visamiddleeast.com
+www.yellowpepper.com
+Primary Assets
+Secondary Assets
+developer.worldcoin.org
+https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
+https://docs.world.org/world-chain/reference/address-book
+https://github.com/worldcoin
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-software
+https://play.google.com/store/apps/details?id=com.worldcoin
+toolsforhumanity.com
+world.org
+worldcoin.org
+1013961111
+1218902777
+926252661
+Blink Indoor
+Blink Mini
+Blink Outdoor
+Blink Sync Module 2
+Blink Video Doorbell
+Chime
+Indoor Cam
+Peephole Cam
+Ring Alarm
+Ring Smart Lighting Bridge
+Stickup Cam
+Video Doorbell
+com.immediasemi.android.blink
+com.ring.neighborhoods
+com.ringapp
+prd-ring-web-us.prd.rings.solutions
+publicsafety.ring.com
+146.109.1.0/24
+146.109.140.0/24
+146.109.141.0/24
+146.109.142.0/24
+146.109.143.0/24
+146.109.148.0/24
+146.109.149.0/24
+146.109.150.0/24
+146.109.151.0/24
+146.109.161.0/24
+146.109.2.0/24
+146.109.3.0/24
+146.109.4.0/24
+146.109.64.0/24
+146.109.65.0/24
+146.109.66.0/24
+146.109.67.0/24
+146.109.68.0/24
+146.109.8.0/21
+146.109.8.0/22
+153.46.0.0/16
+153.46.104.0/22
+153.46.108.0/22
+153.46.111.0/24
+153.46.162.0/23
+153.46.176.0/22
+153.46.240.0/20
+153.46.30.0/23
+153.46.32.0/23
+153.46.34.0/23
+153.46.48.0/22
+153.46.96.0/20
+174.44.253.152/29
+185.210.32.0/22
+193.109.229.0/24
+193.110.154.0/24
+193.5.66.0/23
+193.8.251.0/24
+194.209.121.0/24
+194.35.79.0/24
+212.95.227.64/26
+62.192.20.16/29
+https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
+https://apps.apple.com/mx/app/debix/id1581440132
+https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
+https://apps.apple.com/mx/app/six-id/id1620496931
+https://apps.apple.com/us/app/bme-conecta/id6443938949
+https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
+https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
+https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
+https://secure-test.six-swiss-exchange.com/
+https://web3.sdx.com
+https://www.sdx.com/
+www.bolsasymercados.es
+www.six-group.com
+Anker
+Solarbank 2 E1600 Pro
+com.anker.AnkerMake
+com.anker.charging
+com.eufylife.EufyHome
+com.oceanwing.FDMPrint
+com.oceanwing.battery.cam
+com.oceanwing.care.cam
+com.security.BatteryCam
+com.security.care
+eufyMake E1
+eufyMake Studio software
+https://us.eufy.com/products/e8213181
+https://us.eufy.com/products/t8410121
+https://us.eufy.com/products/t88511d1
+https://us.eufy.com/products/t88711w1
+1023499075
+com.eero.android
+eero Devices
+Mozilla Ad Routing Service
+Mozilla VPN Clients
+Product Delivery
+accounts.firefox.com
+addons.allizom.org
+api.profiler.firefox.com
+aus5.mozilla.org
+bugzilla.mozilla.org
+community-tc.services.mozilla.com
+crash-reports.allizom.org
+crash-stats.allizom.org
+developer.mozilla.org
+firefox-ci-tc.services.mozilla.com
+firefox.settings.services.mozilla.com
+hg.mozilla.org
+lando.services.mozilla.com
+merino.services.mozilla.com
+monitor.mozilla.org
+phabricator.allizom.org
+pontoon.allizom.org
+profiler.firefox.com
+push.services.mozilla.com
+relay.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
+support.mozilla.org
+sync.services.mozilla.com
+vpn.mozilla.org
+www.firefox.com
+www.mozilla.org
+go.stripchat.com
+10x.redoxengine.com
+docs.redoxengine.com
+explore.redoxengine.com
+fhir.redoxengine.com
+help.redoxengine.com
+testapi.redoxengine.com
+testapp.redoxengine.com
+www.redoxengine.com
+Mac OS Executable
+OKX Android APK
+OKX Wallet Chrome Extension
+OKX Wallet Core Open Source
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+OKX iOS APP
+Windows OS Executable
+api.wisdomtreeprimeapp.com
+com.wisdomtree.wtprime
+com.wisdomtree.wtprime
+https://app.wisdomtreeconnect.com
+https://app.wisdomtreeconnect.com/api/
+https://app.wisdomtreeconnect.com/o/token/
+www.analvids.com
+www.ddfcontent.com
+www.pornbox.com
+www.pornworld.com
+https://github.com/tronprotocol/java-tron
+WGP Slot Games
+https://napoleoncasino.be
+https://napoleoncasino.be/en-be/game/hogamba-crash?demo=false
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+https://napoleondice.be
+https://napoleongames.be
+https://napoleonsports.be
+https://superbet.pl
+https://superbet.ro
+https://superbet.rs
+ro.superbet.games
+ro.superbet.sport
+superbet.bet.br
+api.dicey.com
+dicey.com
+com.boozt
+com.boozt.app
+com.boozt.booztlet
+com.booztlet
+kronor.io
+my.sheer.com
+www.sheer.com
+1589071345
+apix.vodafone.om
+om.vodafone.mva
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
+www.vodafone.om
+api.au.frontegg.com
+portal.au.frontegg.com
+ab-platform-api.eu-east-1.indriverapp.com
+alternativa.film
+api.ryadom.kz
+auroratechaward.com
+blog.indrive.com
+careers.indrive.com
+cargo.indrive.com
+coaching.supernovas.indrive.com
+couriers.indrive.com
+debug.clairvoyance.indrive.tech
+delivery-webview.indrive.com
+external.indrive.dev
+file-storage-front.eu-east-1.indriverapp.com
+https://cas-cf.euce1.indriverapp.com/api/passkey
+indrive.com
+ingest.clairvoyance.indrive.tech
+intercity.indrive.com
+invisionu.education
+job.ryadom.kz
+landing.ryadom.kz
+media.indrive.com
+messenger.eu-east-1.indriverapp.com
+movie.indrive.com
+new-order.eu-east-1.indriverapp.com
+oymyakon.indriver.io
+priority.eu-east-1.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
+ryadom.kz
+sso.ryadom.kz
+teammate.indriver.io
+truck-api.eu-east-1.indriverapp.com
+url-checker.indrive.com
+volans.tech
+watchdocs.indriverapp.com
+web.ryadom.kz
+wga.volans.tech
+www.supernovas.indrive.com
+1324809509
+1528364633
+302584613
+621574163
+944011620
+947984433
+Echo Family Devices
+FireTV
+Kindle E-Reader
+Luna
+Other
+Tablets
+a4k.amazon.com
+alexa.amazon.com
+alexaanswers.amazon.com
+blueprints.amazon.com
+com.amazon.clouddrive.photos
+com.amazon.dee.alexaonwearos
+com.amazon.dee.app
+com.amazon.kindle
+com.amazon.storm.lightning.client.aosp
+com.amazon.tahoe.freetime
+com.amazon.tails
+creator.amazon.com
+read.amazon.com
+skills-store.amazon.com
+Android & iOS App for REI Customers
+Any public cloud resource or infrastructure operated and managed by REI.
+http://collaboration.rei.com
+http://www.rei.com/learn/expert-advice
+login.rei.com
+rei.com
+api.mergify.com
+dashboard.mergify.com
+https://www.zabbix.com/download_sources
+com.coinhako
+com.coinhako.app
+help.coinhako.com
+www.coinhako.com
+cdn.arkoselabs.com
+client-api.arkoselabs.com
+customer-sessions.arkoselabs.com
+demo.arkoselabs.com
+iframe.arkoselabs.com
+portal.arkoselabs.com
+verify.arkoselabs.com
+www.arkoselabs.com
+sandbox-royal.securegateway.com
+sandbox.securegateway.com
+app.dynamic-preprod.xyz
+app.dynamic.xyz
+demo.dynamic.xyz
+app.moderntreasury.com
+cdn.moderntreasury.com
+Github Repositories or other public artifacts owned by makenotion
+Notion AI
+Notion Authentication
+Notion Desktop App
+Notion Frontend
+Notion Integrations
+Privilege Escalation
+Product API
+Public API
+calendar.notion.so
+mail.notion.so
+notion.id
+1442121355
+1502222766
+com.vodafone.mpesa.drc
+com.vodafone.mpesa.ls
+com.vodafone.mpesa.mozambique
+m-pesa.africa
+mpa.ekyc.backoffice.m-pesa.com
+mpa.ekyc.selfregister.m-pesa.com
+mpa.qr.web.m-pesa.com
+openapi.m-pesa.com
+openapiportal.m-pesa.com
+MetaMask Browser Extension
+MetaMask SDK
+Snaps
+Third Party Snaps
+api-wallet.web3auth.io
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+io.metamask
+io.metamask.Metamask
+mUSD Stablecoin
+metamask.io
+signature-insights.api.cx.metamask.io
+snaps.metamask.io
+wallet.web3auth.io
+api-eu.floqast.app
+Any public (Internet-facing) infrastructure owned and operated by Palantir.
+Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
+All Evergreen Assets (Excluding staging)
+App Services/Realm
+Atlas Charts
+Atlas Data Federation
+Atlas IAM
+Atlas Payments/Billing
+Cluster-To-Cluster sync
+Compass
+Database Tools
+Drivers
+Enterprise Edition Products and Tools
+Jira Projects
+MongoDB Assistant
+MongoDB Atlas
+MongoDB Community Server
+MongoDB Connectors
+MongoDB IntelliJ Plugin
+MongoDB MCP Server
+MongoDB Owned GitHub Repositories
+MongoDB Partner Integrations
+MongoDB Shell
+MongoDB Toolchain
+Relational Migrator
+University Platform
+VS Code Plugin
+Web3 - Smart Contracts Scope
+com.ripio.android
+com.ripio.ios
+defi.ripio.com
+http://auth.ripio.com
+https://app.ripio.com
+https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
+https://bridge.ripio.com/
+https://etherscan.io/address/0x0DC4F92879B7670e5f4e4e6e3c801D229129D90D
+https://etherscan.io/address/0x337E7456B420bD3481e7FA61fA9850343d610d34
+https://etherscan.io/address/0x46167cB034feC6ceC46CaeD4f61281f5Aa0Eb0e6
+https://etherscan.io/address/0x465e642387d3d73a57CDc1368fFA53A800bA5D47
+https://etherscan.io/address/0x4F34c8b3b5FB6D98Da888F0feA543d4d9C9F2eBE
+https://etherscan.io/address/0x61D450a098b6a7f69fC4b98CE68198fe59768651
+https://etherscan.io/address/0x8a1D45e102e886510e891d2Ec656a708991e2D76
+https://etherscan.io/address/0xD168CFbBE260D48cd119497a9a2eE8482080C5E7
+https://etherscan.io/address/0xD76f5Faf6888e24D9F04Bf92a0c8B921FE4390e0
+https://etherscan.io/address/0xdcC340132740AD57E9Fc90C9BD08B00dBbc87986
+https://kyc.ripio.com/
+https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
+sandbox-b2b.ripio.com
+trade.ripio.com
+1293674041
+Tier 1
+Tier 2
+com.deribit
+insights.deribit.com
+pb.deribit.com
+test.deribit.com
+api.sorare.com
+sorare.com
+ws.sorare.com
+121.200.237.36/29
+167.187.0.0/16
+192.251.123.0/24
+192.251.124.0/24
+192.251.125.0/24
+192.251.126.0/24
+203.79.37.2/29
+62.216.152.46/29
+82.196.42.196/28
+hilton.com
+hilton.io
+hiltonbusinessonline.com
+hiltonlocalbiz.com
+com.compass.compass
+https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
+www.compass.com
+accountoffers.wellsfargo.com
+com.wellsfargo.ceomobile
+com.wf.ceomobile
+com.wf.mobilebanking
+com.wf.wellsfargomobile
+connect.secure.wellsfargo.com
+homeloans.wellsfargo.com
+http://wellsfargo.com
+http://wf.com
+Wickr Me Android
+Wickr Me Linux
+Wickr Me OS X
+Wickr Me Windows
+Wickr Me iOS
+Wickr Pro Android
+Wickr Pro Linux
+Wickr Pro OS X
+Wickr Pro Windows
+Wickr Pro iOS
+Wickr Pro/Wickr Me (all related technical components) (up to)
+admin.wickr.com
+www.wickr.com
+http://greenchannel.payoneer.com.cn/gcportal
+myaccount-cn.payoneer.com
+myaccount.payoneer.com
+payoneer.com.cn
+api.moonpay.com
+app.moonpay.com
+auth.moonpay.com
+buy.moonpay.com
+https://apps.apple.com/app/id1635031432
+https://github.com/moonpay
+https://play.google.com/store/apps/details?id=com.moonpay
+hypermint.com
+moonpay.com
+sell.moonpay.com
+web3.moonpay.com
+1091010942
+app.koho.ca
+ca.koho
+http://api.koho.ca/1.0
+http://api.koho.ca/partner
+usercontent.koho.ca
+web.koho.ca
+webgateway.koho.ca
+www.koho.ca
+api.stg.inspectorio.com
+app.stg.inspectorio.com
+docuflow.stg.inspectorio.com
+files-stg.inspectorio.com
+https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
+https://collabora.stg.inspectorio.com
+https://testflight.apple.com/join/vwFxXX7t
+id.stg.inspectorio.com
+report-html-sight.stg.inspectorio.com
+rise-api.stg.inspectorio.com
+rise.stg.inspectorio.com
+1089294040
+407558537
+Capital One Shopping Browser Extension
+Eno® Browser Extension
+com.konylabs.capitalone
+com.wikibuy.prod.main
+knox.beta.blendlabs.com
+api.razorpay.com
+checkout.razorpay.com
+dashboard.razorpay.com
+invoices.razorpay.com
+payroll.razorpay.com
+x.razorpay.com
+www.zooplus.co.uk
+www.zooplus.com
+www.zooplus.de
+zooplus.net
+com.newegg.app
+com.newegg.app
+https://secure.newegg.com
+pmtcards.newegg.com
+secure.newegg.ca
+sellerportal.newegg.com
+Other
+account.krisp.ai
+analytics.krisp.ai
+api.krisp.ai
+app.krisp.ai
+download.krisp.ai
+help-jp.krisp.ai
+help.krisp.ai
+https://download.krisp.ai/mac
+https://download.krisp.ai/win
+krisp.ai
+resources.krisp.ai
+teams.krisp.ai
+upld.krisp.ai
+Whatnot: Shop, Sell, Connect
+api.whatnot.com
+auction-service.whatnot.com
+com.whatnot_mobile
+live-service.whatnot.com
+www.whatnot.com
+1180400838
+6741442288
+Tier 1
+Tier 2
+accounts.khealth.com
+ai.kanghealth
+api.khealth.com
+app.khealth.com
+ask.khealth.com
+auth.hhc247.org
+eligibility.khealth.com
+http://auth.khealth.com/cedars/sign-up
+http://auth.khealth.com/khealth/sign-up
+http://auth.khealth.com/mayo-la-crosse/sign-up
+http://clinical-quality.khealth.com/api/v1
+https://apps.apple.com/us/app/hhc-24-7/id6741442288
+kaccount.khealth.com
+org.hartfordhealthcare.hhc247
+salesforce.khealth.com
+start.khealth.com
+treatments.khealth.com
+www.kpharmacyllc.com
+api.smtp2go.com
+app.smtp2go.com
+smtp2go.com
+1116488672
+1200391796
+1215220850
+1223338261
+1413287364
+1438744533
+1448884851
+1474700 (Steam app id)
+1508620125
+1510325826
+447553564
+480523695
+529996768
+586634331
+594802437
+603097018
+645949180
+654671575
+719525810
+868013618
+975035622
+9nqwjwnqjj5n
+Tier 1
+Tier 1 Studios
+Tier 2
+Tier 3
+air.com.buffalo_studios.newflashbingo
+air.com.playtika.cvs
+air.com.playtika.slotomania
+bestfiends.com
+com.Seriously.BestFiends
+com.Seriously.Phoenix
+com.bigblueparrot.pokerfriends
+com.jellybtn.boardkings
+com.jellybtn.cashkingmobile
+com.pacificinteractive.HouseOfFun
+com.playtika.caesarscasino
+com.playtika.wsop.gp
+com.wooga.pearlsperil
+com.youdagames.monopolypoker
+fi.reworks.redecor
+gnocchi-www.buffalo-ggn.net
+https://apps.facebook.com/pearls-peril
+https://apps.facebook.com/pokerheat
+https://apps.facebook.com/vegas_downtown_slots
+lol.onevone
+net.supertreat.solitaire
+net.wooga.junes_journey_hidden_object_mystery_game
+net.wooga.switchcraft.googleplay
+net.wooga.tropicats_tropical_cats_puzzle_paradise
+1127881507
+524362642
+6467634418
+com.dolap.android
+com.trendyol.go
+com.trendyol.milla.android
+m.trendyol.com
+trendyol.com
+www.dolap.com
+www.tgoyemek.com
+www.trendyol-milla.com
+www.trendyol.com
+HYPR Workforce Access.app
+HyprUnlock.exe
+com.hypr.one
+com.hypr.one
+978516833
+Munkisrv Open Source Project
+Sandboxes
+Smokescreen Open Source Project
+Stripe Apps
+Stripe Atlas
+Stripe Billing
+Stripe Capital
+Stripe Checkout
+Stripe Climate
+Stripe Connect
+Stripe Dashboard
+Stripe Data Pipeline
+Stripe Elements
+Stripe Financial Connections
+Stripe Identity
+Stripe Invoicing
+Stripe Issuing
+Stripe Open Source
+Stripe Organizations
+Stripe Payment Links
+Stripe Payments
+Stripe Radar
+Stripe Revenue Recognition
+Stripe SDKs
+Stripe Sigma
+Stripe Tax
+Stripe Terminal
+Stripe Treasury
+Stripe for Visual Studio Code
+Tap to Pay (Android)
+Tap to Pay (iOS)
+api.stripe.com
+api.taxjar.com
+app.taxjar.com
+com.stripe.android.dashboard
+js.stripe.com
+mcp.stripe.com
+www.stripe.partners
+Freshcaller-iOS-App
+Freshchat-iOS-App
+Freshdesk-iOS-App
+Freshservice Discovery Agent and Probe
+Freshservice-Intune-iOS-App
+Freshservice-iOS-App
+com.freshchat.agent.android
+com.freshdesk.helpdesk
+com.freshservice.helpdesk
+com.freshservice.helpdesk.intune
+com.freshworks.freshcaller
+yourdomain.freshcaller.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
+yourdomain.freshrelease.com
+yourdomain.freshservice.com
+yourdomain.myfreshworks.com
+bigcommerce-adapter.judge.me
+cache.judge.me
+https://judge.me/reviews
+judge.me
+shop.judge.me
+woocommerce-adapter.judge.me
+api.doppler.com
+dashboard.doppler.com
+doppler
+doppler.team
+https://github.com/DopplerHQ/cli
+share.doppler.com
+319881193
+com.grindrapp.android
+preprod1.grindr.com
+web.grindr.com
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows
+Citrix Secure Access client for Android
+Citrix Secure Access client for Linux
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Citrix Secure Access client for macOS
+accounts.cloud.com
+adm.cloud.com
+ap-s.cloud.com
+api.adm.cloud.com
+eu.cloud.com
+onboarding.cloud.com
+us.cloud.com
+https://www.xvideos.net/app/
+www.xnxx.com
+www.xnxx.gold
+www.xvideos.com
+www.xvideos.red
+8x8 Communication APIs
+8x8 Partner Portal
+8x8-work
+8x8.my.site.com
+ASN: AS10976
+ASN: AS133144
+ASN: AS13896
+ASN: AS14294
+ASN: AS198554
+ASN: AS199687
+ASN: AS206422
+ASN: AS32308
+ASN: AS395362
+ASN: AS398067
+ASN: AS44965
+ASN: AS46680
+ASN: AS49856
+ASN: AS62306
+ASN: AS62876
+Cloud Misconfigurations
+Discovered Leaked Credentials
+Intellectual Property on Public Domains
+Third Party Application
+Virtual Office Desktop
+admin.8x8.com
+api.8x8.com
+apps.8x8.com
+callroute.com
+callroute.io
+cloud8.8x8.com
+community.8x8.com
+connect.8x8.com
+converse.8x8.com
+dashboard.qa.ai.8x8.com
+debug.8x8.com
+developer.8x8.com
+fuze.me
+https://8x8.vc/xmpp-websocket
+https://github.com/jitsi
+https://webrtc.8x8.com/
+https://www.npmjs.com/package/@8x8/pui-partner-comm
+org.vom8x8.sipua
+pay.8x8.com
+platform.8x8.com
+platform.8x8pilot.com
+sipsynergy.co.uk
+sso.8x8.com
+sso.8x8pilot.com
+support-portal.8x8.com
+uc.8x8pilot.com
+unreal-agents.8x8pilot.com
+user-profile-staging.8x8.com
+user-profile.8x8.com
+vap.8x8.com
+vcc-ce.8x8.com
+video-agent.8x8.com
+voapi.8x8.com
+work-staging.8x8.com
+work.8x8.com
+www.fuzemeeting.com
+1235601864
+1591003012
+641062073
+835599320
+Other Asset (Campaigns)
+academy-outbound-ads.tiktok.com
+ads.tiktok.com
+affiliate-id.tokopedia.com
+business.tiktok.com
+careers.tiktok.com
+com.ss.android.ugc.now
+com.ss.android.ugc.trill
+com.tiktok.tv
+com.tiktokshop.seller
+com.zhiliao.musically.livewallpaper
+com.zhiliaoapp.musically
+creatormarketplace.tiktok.com
+developers.tiktok.com
+effecthouse.tiktok.com
+fp-sg.tiktokv.com
+lemon8-api.tiktokv.us
+live-backstage.tiktok.com
+pangle-mediation-ttp.tiktokpangle.us
+partner.tiktokshop.com
+pay.tokopediax.com
+platform.tiktokpangle.us
+seller-id.tokopedia.com
+shop-id.tokopedia.com
+shop.tiktok.com
+starling-ttp.lemon8-app.us
+tiktok.com
+tiktokdata-us-open.tiktokw.us
+www.pangleglobal.com
+www.soundonw.us
+api-gateway.polygon.technology
+api-polygon-tokens.polygon.technology/
+faucet-api.polygon.technology/
+faucet.polygon.technology
+gasstation.polygon.technology/
+portal.polygon.technology
+staking-api.polygon.technology
+staking.polygon.technology
+accounts.insightly.com
+crm.na1.insightly.com
+http://api.insightly.com/v3.1/
+http://api.na1.insightly.com/v3.1/
+login.insightly.com
+marketing.na1.insightly.com
+mobileapi.insightly.com
+mobileapi.na1.insightly.com
+outlook.insightly.com
+Figma Atlassian App
+Figma Desktop App
+Figma Slack App
+Figma for Microsoft Teams
+Figma iOS and Android apps
+api.figma.com
+www.figma.com
+1057338687
+1151746202
+1265170914
+1276296103
+1454725763
+1475021574
+1478350915
+1494755014
+1498197033
+1532153219
+1552455423
+1579372261
+1592204907
+1659883691
+297606951
+335187483
+342576766
+348712880
+358861688
+374254473
+510855668
+545519333
+6444868926
+6452192521
+6471528064
+6479334468
+6560104638
+794141485
+988788863
+Amazon Subsidiaries (Please only actively test explicitly stated scope)
+Other Amazon Retail Assets (Please only actively test explicitly stated scope)
+Other Amazon Retail Mobile Apps (Please only actively test explicitly stated scope)
+Other Amazon Retail Sites (Please only actively test explicitly stated scope)
+amazon.speech.sim
+amazonpayinsurance.in
+com.amazon.aba.application
+com.amazon.amazonone.androidapp
+com.amazon.amazonvideo.livingroom
+com.amazon.astro
+com.amazon.avod.thirdpartyclient
+com.amazon.enterprise.access.android
+com.amazon.firetv.recast.blaster.aosp
+com.amazon.flex.rabbit
+com.amazon.helix.prod
+com.amazon.ihm.candycane
+com.amazon.imdb.tv.mobile.app
+com.amazon.kisan.app
+com.amazon.mShop.android.business.shopping
+com.amazon.mShop.android.shopping
+com.amazon.minitv.android.app
+com.amazon.mp3
+com.amazon.mp3.automotiveOS
+com.amazon.music.tv
+com.amazon.primenow.seller.android
+com.amazon.relay
+com.amazon.sellerflexmobile
+com.amazon.sellermobile.android
+com.amazon.sft.rangoli.seller.app
+com.amazon.shopperpanel.android.mobile.app
+com.amazon.swa.mobileapp
+com.amazon.tahoe.grownups
+com.amazon.technician.android
+com.amazon.vendormobile.android
+com.amazon.vendormobile.india.android
+com.amazon.warhol.android
+com.amazon.ziggy.android
+com.imdbtv.livingroom
+com.localqueen
+in.amazon.mShop.android.business.shopping
+in.amazon.mShop.android.shopping
+3d.cs.money
+blog.cs.money
+cs.money
+support.cs.money
+wiki.cs.money
+H5G
+Managed OpenClaw
+agents.hostinger.com
+builder.hostinger.com
+cpanel.hostinger.com
+horizons.hostinger.com
+hpanel.hostinger.com
+http://payments.hostinger.com
+mail.hostinger.com/v2
+reach.hostinger.com
+www.hostinger.com
+1080248000
+878577184
+com.romwe
+com.zzkko
+api.faraday.ai
+app.faraday.ai
+buy.faraday.ai
+gs://faraday-secret
+gs://fdy-production-sdk-uploads
+row.pro
+s3://faraday-secret
+s3://faraday-uploads
+vault2.faraday.ai
+Android Playstation App
+PlayStation 4
+PlayStation 5
+api.direct.playstation.com
+ca.account.sony.com
+checkout.playstation.com
+compete.playstation.com
+direct.playstation.com
+iOS Playstation App
+my.account.sony.com
+my.playstation.com
+profile.playstation.com
+ps5.np.playstation.net
+session-share.playstation.com
+social.playstation.com
+store.playstation.com
+transact.playstation.com
+wallets.api.playstation.com
+web.np.playstation.com
+www.playstation.com
+448142450
+business-resources.truecaller.com
+business.truecaller.com
+com.truecaller
+web.truecaller.com
+www.truecaller.com
+281796108
+406056744
+9wzdncrfj3mb
+accounts.evernote.com
+accounts.stage.evernote.com
+api.evernote.com
+api.stage.evernote.com
+com.evernote
+www.evernote.com
+Exodus Desktop Wallet
+Passkey Wallet
+exodus-movement.exodus
+https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
+https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
+https://play.google.com/store/apps/details?id=com.exodus.grateful
+https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
+Community Management & Communications
+Tier 1
+Tier 2
+Tier 3
+github.com/kubernetes-csi
+github.com/kubernetes-retired
+https://github.com/kubernetes-client
+https://github.com/kubernetes-incubator
+https://github.com/kubernetes-security
+https://github.com/kubernetes-sigs
+https://github.com/kubernetes/api
+https://github.com/kubernetes/apiextensions-apiserver
+https://github.com/kubernetes/apimachinery
+https://github.com/kubernetes/apiserver
+https://github.com/kubernetes/autoscaler
+https://github.com/kubernetes/cli-runtime
+https://github.com/kubernetes/client-go
+https://github.com/kubernetes/cloud-provider
+https://github.com/kubernetes/cloud-provider-alibaba-cloud
+https://github.com/kubernetes/cloud-provider-aws
+https://github.com/kubernetes/cloud-provider-azure
+https://github.com/kubernetes/cloud-provider-gcp
+https://github.com/kubernetes/cloud-provider-openstack
+https://github.com/kubernetes/cloud-provider-sample
+https://github.com/kubernetes/cloud-provider-vsphere
+https://github.com/kubernetes/cluster-bootstrap
+https://github.com/kubernetes/cluster-registry
+https://github.com/kubernetes/code-generator
+https://github.com/kubernetes/community
+https://github.com/kubernetes/component-base
+https://github.com/kubernetes/cri-api
+https://github.com/kubernetes/csi-api
+https://github.com/kubernetes/csi-translation-lib
+https://github.com/kubernetes/dns
+https://github.com/kubernetes/enhancements
+https://github.com/kubernetes/examples
+https://github.com/kubernetes/frakti
+https://github.com/kubernetes/funding
+https://github.com/kubernetes/gengo
+https://github.com/kubernetes/git-sync
+https://github.com/kubernetes/k8s.io
+https://github.com/kubernetes/klog
+https://github.com/kubernetes/kompose
+https://github.com/kubernetes/kops
+https://github.com/kubernetes/kube-aggregator
+https://github.com/kubernetes/kube-controller-manager
+https://github.com/kubernetes/kube-deploy
+https://github.com/kubernetes/kube-openapi
+https://github.com/kubernetes/kube-proxy
+https://github.com/kubernetes/kube-scheduler
+https://github.com/kubernetes/kube-state-metrics
+https://github.com/kubernetes/kubeadm
+https://github.com/kubernetes/kubectl
+https://github.com/kubernetes/kubelet
+https://github.com/kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes-anywhere
+https://github.com/kubernetes/kubernetes-template-project
+https://github.com/kubernetes/legacy-cloud-providers
+https://github.com/kubernetes/metrics
+https://github.com/kubernetes/minikube
+https://github.com/kubernetes/node-api
+https://github.com/kubernetes/node-problem-detector
+https://github.com/kubernetes/org
+https://github.com/kubernetes/perf-tests
+https://github.com/kubernetes/publishing-bot
+https://github.com/kubernetes/release
+https://github.com/kubernetes/repo-infra
+https://github.com/kubernetes/sample-apiserver
+https://github.com/kubernetes/sample-cli-plugin
+https://github.com/kubernetes/sample-controller
+https://github.com/kubernetes/security
+https://github.com/kubernetes/sig-release
+https://github.com/kubernetes/steering
+https://github.com/kubernetes/test-infra
+https://github.com/kubernetes/utils
+https://github.com/kubernetes/website
+https://storage.googleapis.com/kubernetes-release/
+k8s.gcr.io
+k8s.io
+kubernetes-csi.github.io
+kubernetes.io
+prow.k8s.io
+1541949985
+com.coinspot.app
+https://www.coinspot.com.au/v2/api
+www.coinspot.com.au
+api-sandbox.gocardless.com
+auth0.gocardless.com
+bankaccountdata.gocardless.com
+connect-sandbox.gocardless.com
+http://sso-demo.gocardless-staging.io
+https://ob-sandbox.gocardless.io
+manage-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+ob.gocardless.com
+pay-sandbox.gocardless.com
+payer-details-sandbox.gocardless.com
+www.gocardless.com
+194.90.151.192/28
+194.90.25.80/29
+194.90.89.165/32
+212.143.112.81/29
+38.140.238.56/29
+64.47.18.80/29
+64.84.60.0/24
+97.105.243.96/28
+CounterAct 9.x
+ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
+aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+cloud.forescout.com
+community.forescout.com
+datapod-1-100-druid-ingest.development.forescoutcloud.net
+datapod-1-100-druid-ingest.testing.forescoutcloud.net
+datapod-1-100-druid-query.development.forescoutcloud.net
+datapod-1-100-druid-query.production.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-1-ingest.production.forescoutcloud.net
+datapod-1-query.production.forescoutcloud.net
+datapod-2-druid-ingest.production.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-2-query.acceptance.forescoutcloud.net
+de.forescout.cloud
+http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
+http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
+http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
+http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/deletestatus
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/matrixoverview
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/firstreporttimeentry
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/grouptogroup
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/iplist
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bydst/details
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bysrc
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/overlappinggroups
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/service-list
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
+http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
+http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
+http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
+http://mgmtpod-1.production.forescoutcloud.net/oauth/token
+https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
+https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
+https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+logstash-props.devicecloud.acceptance.forescoutcloud.net
+mgmt-sensors.iris.acceptance.forescoutcloud.net
+mgmt-sensors.iris.production.forescoutcloud.net
+mgmtpod-1-dashboard.production.forescoutcloud.net
+mgmtpod-1.production.forescoutcloud.net
+obs-sensors.iris.acceptance.forescoutcloud.net
+obs-sensors.iris.production.forescoutcloud.net
+streaming-api.iris.acceptance.forescoutcloud.net
+streaming-api.iris.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
+streaming.iris.acceptance.forescoutcloud.net
+streaming.iris.production.forescoutcloud.net
+uk.forescout.cloud
+updates.forescout.com
+us.forescout.cloud
+www.forescout.com
+Other Assets
+1452166623
+Mac OS Executable: Download here https://www.larksuite.com/download
+Windows OS Executable: Download here https://www.larksuite.com/download
+api.larksuite.com
+app.larksuite.com
+caldav.larksuite.com
+com.larksuite.suite
+file.larksuite.com
+hackers_chosendomain.larksuite.com
+internal-api-drive-stream.larksuite.com
+internal-api-lark-api.larksuite.com
+internal-api.larksuite.com
+lark-frontier.byteoversea.com
+larksuite.com
+larksuite.us
+open.larksuite.com
+passport.larksuite.com
+status.larksuite.com
+All other Assets
+Core Assets
+Dynatrace ActiveGate
+Dynatrace MobileAgent
+Dynatrace OneAgent
+account-sprint.dynatracelabs.com
+https://github.com/Dynatrace
+myaccount-hardening.dynatracelabs.com
+sso-sprint.dynatracelabs.com
+ com.citymapper.app.release
+469463298
+6449737830
+6464473474
+657777015
+eu.remix.com
+global-api.citymapper.com
+https://metroconnect.app.ridewithvia.com
+https://pt-runner.app.ridewithvia.com
+platform.remix.com
+ridewithvia.neoridelittlerock
+ridewithvia.par.piercetransit
+via.rider
+MIUI OS for Xiaomi Phone
+Mi Band
+Mi Electric Scooter 
+Mi Home Webcam 
+Mi Laser Projector
+Mi Robot Vacuum
+Mi TV 
+Mi TV Box
+Mi/Redmi Phone
+Other APK Assets
+Other Hardware Assets
+com.android.browser
+com.mi.global.shop
+com.miui.cloudbackup
+com.miui.cloudservice
+com.miui.micloudsync
+com.xiaomi.account
+com.xiaomi.market
+com.xiaomi.mibrain.speech
+com.xiaomi.micloud.sdk
+com.xiaomi.mipicks
+com.xiaomi.payment
+com.xiaomi.smarthome
+Android App
+Core Assets
+Non-Core Assets
+accounts.reddit.com
+ads.reddit.com
+amp.reddit.com
+api.reddit.com
+business.reddithelp.com
+developers.reddit.com
+gateway.reddit.com
+gql.reddit.com
+iOS App
+m.reddit.com
+matrix.redditspace.com
+meta-api.reddit.com
+mod.reddit.com
+new.reddit.com
+redditforbusiness.com
+sh.reddit.com
+strapi.reddit.com
+ews-fusion.my.site.com
+www.certos.com
+zelleservice.my.salesforce.com
+zelleservice.my.site.com
+545599256
+Android & iOS App for Instacart Shoppers
+admin.instacart.com
+api.instacart.com
+com.instacart.client
+shoppers.instacart.com
+template.uat.foodstorm.com
+www.instacart.com
+1245772818
+284803487
+284971959
+403546234
+427916203
+483394780
+531549799
+566635048
+880759727
+987675995
+com.cheaptickets
+com.ebookers
+com.expedia.bookings
+com.expediapartnercentral
+com.hcom.android
+com.hotwire.hotels
+com.orbitz
+com.travelocity.android
+com.vrbo.android
+com.wotif.android
+www.abritel.fr
+www.bookabach.co.nz
+www.carrentals.com
+www.cheaptickets.com
+www.ebookers.com
+www.ebookers.fi
+www.expedia-aarp.com
+www.expedia.com
+www.expediagroup.com
+www.expediataap.com
+www.fewo-direkt.de
+www.flights.com
+www.hotels.com
+www.hotwire.com
+www.hotwirepartnercentral.com
+www.lastminute.co.nz
+www.lastminute.com.au
+www.mrjet.se
+www.orbitz.com
+www.stayz.com.au
+www.travelocity.ca
+www.travelocity.com
+www.vrbo.com
+www.wotif.com
+Front for Mac
+Front for Windows
+api2.frontapp.com
+app.frontapp.com
+com.frontapp.mobile
+com.frontapp.mobile
+api.netlify.com
+app.netlify.com
+internal-docs.netlify.com
+internal.netlify.com
+list-v2--netlify-plugins.netlify.app
+netlify-cdp-loader.netlify.app
+netlify-rum.netlify.app
+screenshot-proxy.netlify.app
+supportal.netlify.app
+1413721906
+1485539253
+1506229470
+4njbets.com
+4njbets.us.betfair.com
+599664106
+6740879082
+com.fanduel.android.self
+com.fanduel.casino
+com.fanduel.flywheelnativecontainer.picks
+com.fanduel.racing
+com.fanduel.sportsbook
+login-4ngbets.us.betfair.com
+login-4njbets.us.betfair.com
+www.4njbets.com
+accounts.creditkarma.com
+api.creditkarma.com
+blog.creditkarma.com
+com.creditkarma.mobile
+com.creditkarma.mobile
+com.creditkarma.mobile.international
+com.creditkarma.mobile.international
+https://www.creditkarma.com/reviews/
+https://www.creditkarma.com/savings
+support.creditkarma.ca
+www.creditkarma.ca
+Crypto
+Leaked Credentials
+Point Smart
+Tier 3
+api.mercadolibre.com
+api.mercadopago.com
+biolibre.ar
+biolibre.cl
+biolibre.co
+biolibre.mx
+biolivre.com.br
+com.3mosquitos.MercadoLibre
+com.mercadoenvios.crowdsourcing
+com.mercadoenvios.driver
+com.mercadoenvios.logistics
+com.mercadolibre
+com.mercadolibre.android.mplay_tv
+com.mercadopago.MercadoPago
+com.mercadopago.wallet
+furycloud.io
+furydocs.io
+logistica.redelcom.cl
+meliplay.com.ar
+meliplay.com.pe
+meliplay.com.uy
+mercadolibreexperience.cl
+mercadolivreexperience.com.br/
+mercadoplay.co
+mercadoplay.com.pe
+mercadoplay.com.uy
+mercadoplay.pe
+mercadoplay.uy
+portalinmobiliario.cl
+portalinmobiliario.com
+sustentabilidadmercadolibre.com/
+tucarro.com
+tucarro.com.co
+tumoto.com
+www.mercadolibre.co.cr
+www.mercadolibre.com.bo
+www.mercadolibre.com.do
+www.mercadolibre.com.ec
+www.mercadolibre.com.gt
+www.mercadolibre.com.hn
+www.mercadolibre.com.ni
+www.mercadolibre.com.pa
+www.mercadolibre.com.py
+www.mercadolibre.com.sv
+www.mercadolivre.com
+www.mercadopago.com.ec
+1032480595
+982922982
+com.urbanclap.provider
+com.urbanclap.urbanclap
+www.urbanclap.com
+www.urbancompany.com
+674258465
+ablink.info.remitly.com
+access-sandbox.remitly.com
+access.remitly.com
+api.remitly.io
+app.rewire.to
+app3.rewire.to
+auth.remitly.com
+beamitmobile.com
+blog.remitly.com
+cardpayments.remitly.io
+cards.remitly.io
+careers.remitly.com
+com.remitly.androidapp
+funding-webhooks.remitly.io
+getorigen.com
+getsurenow.com
+hub-api-sandbox.remitly.io
+insuritly.com
+ir.remitly.com
+login.remitly.com
+media.remitly.io
+metrics.int.remitly.com
+news.remitly.com
+origenapp.com
+origenbanking.com
+origencard.com
+origendebit.com
+origenfinance.com
+partner-webhook.remitly.io
+rates.rewire.com
+remilty.net
+remilty.org
+remitir.com
+remitiy.com
+remitly-3pjs.com
+remitly-vendor.com
+remitly.ca
+remitly.cash
+remitly.co
+remitly.co.uk
+remitly.com
+remitly.com.au
+remitly.com.mx
+remitly.de
+remitly.es
+remitly.eu
+remitly.fr
+remitly.io
+remitly.jp
+remitly.me
+remitly.mx
+remitly.net
+remitly.org
+remitly.uk
+remitly.xyz
+remitlyapi.com
+remitlycard.com
+remitlycredit.com
+remitlydata.com
+remitlyit.com
+remitlypay.com
+remitlypayments.com
+remitlytest.com
+remitlywallet.com
+remitresearch.com
+rewire.com
+site.rewire.com
+travelcash.money
+whyisend.com
+740514933
+api.s-kaupat.fi
+api.sokos.fi
+digili.s-cloud.fi
+extranet.s-pankki.fi
+fi.spankki
+https://crosskey.io/stores/s-pankki/apis
+mobile.s-pankki.fi
+online.s-pankki.fi
+tunnistus.s-ryhma.fi
+www.prisma.fi
+www.s-kaupat.fi
+www.s-pankki.fi
+www.sokos.fi
+328407587
+com.yahoo.mobile.client.android.flickr
+modefestival.com
+www.whatismode.com
+737216887
+https://github.com/innocraft/
+https://github.com/matomo-org
+https://github.com/matomo-org/docker
+https://github.com/matomo-org/matomo
+https://plugins.matomo.org/developer/innocraft
+https://plugins.matomo.org/developer/matomo-org
+matomo.cloud
+org.piwik.mobile2
+1018340690
+1294578643
+1456293789
+1476615877
+632344648
+Circle Cameras
+G Hub
+Harmony Remote Software
+Harmony Remotes
+Logi Options+ PC/MAC
+Logi Tune PC/MAC
+Logitech MIXLINE
+Logitech Mice & Keyboards
+Logitech Options PC/MAC
+Logitech Sync
+Other Logitech Desktop and Mobile Application
+Other Logitech Hardware/IoT
+Presentation Remotes
+Scope Questions: Items not explicitly listed here
+Streamlabs Desktop Application PC/MAC
+USB Unifying and LightSpeed Receivers
+Ultimate Ears Speakers
+Video Conferencing Products
+accounts.logi.com
+alert.logitech.com
+buy.logitech.com
+circle.logi.com
+com.logitech.circle
+com.logitech.logue
+com.logitech.ueboom
+com.streamlabs
+com.streamlabs.slobsrc
+community.logitech.com
+external.logitech.com
+feedback.logitech.com
+gaming.logicool.co.jp
+https://www.logitech.com/blog
+id.logi.com
+jira.logitech.com
+logilife.logitech.com
+logiq.logitech.io
+logitech.zendesk.com
+logitechg.com.cn
+logitechgchallenge.com
+maintenance.logitech.com
+outage.logitech.com
+outagehistory.logitech.com
+partner.logitech.com
+select.logitech.com
+support.logi.com
+sync.logitech.com
+www.astrogaming.com
+www.jaybirdsport.com
+www.logicool.co.jp
+www.logitech-partner.com
+www.logitech.com
+www.logitech.com.cn
+www.logitechclub.com
+www.logitechg.com
+www.logitechstore.com.br
+www.ultimateears.com
+455004730
+activities.marriott.com
+all-inclusive.marriott.com
+apcgateway.marriott.com
+app-insiders.marriott.com
+auth-apc.marriott.com
+bilt.marriott.com
+bpa2.marriott.com
+bsp.marriott.com
+cache.marriott.com
+careers.marriott.com
+channel-portal.homes-and-villas.marriott.com
+ci-propertyconversionportal.marriott.com
+contentportal.marriott.com
+contentportalauth.marriott.com
+cpp.marriott.com
+device.marriott.com
+editionhotels.com
+efast.marriott.com
+eidhelp.marriott.com
+esupplier.marriott.com
+giftcards.marriott.com
+gifts.marriott.com
+globaldesign.marriott.com
+help.marriott.com
+homes-and-villas.marriott.com
+hotel-deals.marriott.com
+hotel-development.marriott.com
+http://www.shopmarriott.com
+https://dcfgatewaytst1.marriott.com/
+https://gatewaydsapdev2.marriott.com/
+https://gatewaydsaptst1.marriott.com/
+https://gatewaydsaptst2.marriott.com/
+ifast.marriott.com
+jobs.marriott.com
+join.marriott.com
+joinmarriottbonvoy.com
+joinrewards.marriott.com
+lawmanager.marriott.com
+marriottfranchisetransactions.marriott.com
+marrtool.com
+mds.marriott.com
+meetmarriottbonvoy.marriott.com
+mgs.marriott.com
+mipartnerprivileges.marriott.com
+moments.marriott.com
+moments.marriottbonvoy.com
+oasisprod.marriott.com
+ocijlbex1prd.marriott.com
+owa.marriott.com
+passwordchallenge.marriott.com
+prod-mipaasiaasservices.marriott.com
+psp.marriott.com
+reservations.all-inclusive.marriott.com
+smetrics.marriott.com
+splunk-phantom-nlb.marriott.com
+ssm-marriottms.saviyntcloud.com
+sso.marriott.com
+travelagents.marriott.com/
+traveler.marriott.com
+uber.marriott.com
+university.marriott.com
+vacation.marriott.com
+wechat.api.marriott.com
+www.giving.marriott.com
+www.marriott.com
+www.members.marriott.com
+www.ritzcarlton.com/
+www.travel-brilliantly.marriott.com
+140.95.0.0/16
+199.66.248.0/22
+213.139.133.32/28
+476639005
+assets.hyatt.com
+blueskytours.globalbookingsolutions.com
+book.applevacations.com
+book.beachbound.com
+book.booktandl.com
+book.cheapcaribbean.com
+booking.applevacations.com
+booking.beachbound.com
+booking.cheapcaribbean.com
+com.Hyatt
+confluence.hyattdev.com
+ebsext.oft.hyatt.com
+hyatt.com
+jira.hyattdev.com
+login.www.vaxvacationaccess.com
+meetings.hyatt.com
+mobileapp.hyatt.com
+new.www.vaxvacationaccess.com
+newsroom.images.hyatt.com
+plannerrequest.hyatt.com
+public.hyatt.com
+res.blueskytours.globalbookingsolutions.com
+res.funjet.com
+res.hyattinclusivecollection.com
+res.secretsresorts.com
+res.skyteam.com
+res.universalorlandovacations.com
+res.vacations.buschgardens.com
+res.vacations.discoverycove.com
+res.vacations.seaworld.com
+res.vacations.sesameplace.com
+res.vacations.united.com
+res.vacations.universalstudioshollywood.com
+reservations.wynnvacations.com
+rezagent.triseptsolutions.com
+roominglist.hyatt.com
+salesportal.hyatt.com
+scapegoat.hyatt.com
+shop.wyndhamvacationownership.trisept.travel
+soaext.oft.hyatt.com
+sso.oft.hyatt.com
+upsell.hyatt.com
+vacations.travelimpressions.com
+vacations.united.com
+vacations.universalstudioshollywood.com
+world.hyatt.com
+www.applevacations.com
+www.beachbound.com
+www.blueskytours.com
+www.cheapcaribbean.com
+www.funjet.com
+www.hyatt.com
+www.hyattconnect.com
+www.hyattinclusivecollection.com
+www.triseptapi.com
+www.triseptdemo.com
+www.triseptsolutions.com
+www.universalorlandovacations.com
+www.wynnvacations.com
+https://api.myntra.com
+https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
+https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
+https://pay.payzippy.com
+https://payments.myntra.com
+https://play.google.com/store/apps/details?id=com.flipkart.android
+https://play.google.com/store/apps/details?id=com.myntra.android
+https://uiscoop.payzippy.com
+https://www.flipkart.com
+https://www.myntra.com
+1118448159
+1192506963
+978342143
+Acronis Agent
+Acronis Cloud Manager
+Acronis Cyber Infrastructure
+Acronis Cyber Protect
+Acronis DeviceLock DLP
+Acronis Snap Deploy
+Acronis True Image (formerly Acronis Cyber Protect Home Office)
+Other Acronis Domains
+Other Acronis executables
+account.acronis.com
+beta-cloud.acronis.com
+com.acronis.abc
+com.acronis.acronistrueimage
+Faucets
+chain.link
+https://github.com/smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
+https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
+https://github.com/smartcontractkit/external-adapters-js/
+https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
+351727428
+Braintree SDK
+PayPal SDK
+api.loanbuilder.com
+api.swiftfinancial.com
+com.paypal.android.p2pmobile
+com.paypal.merchant
+com.paypal.merchant.client
+com.venmo
+com.xoom.android.app
+com.xoom.app
+com.yourcompany.PPClient
+decision.swiftfinancial.com
+loanbuilder.com
+my.loanbuilder.com
+my.swiftfinancial.com
+partner.swiftfinancial.com
+paypal.me
+paypalobjects.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+py.pl
+sandbox.braintreegateway.com
+scrutiny.swiftfinancial.com
+swiftcapital.com
+swiftfinancial.com
+www.loanbuilder.com
+www.swiftcapital.com
+www.swiftfinancial.com
+billingsupport.chaturbate.com
+chaturbate.com
+m.chaturbate.com
+secure.chaturbate.com
+accounts.pixiv.net
+booth.pm
+coban.pixiv.net
+comic-indies.pixiv.net
+comic.pixiv.net
+dic.pixiv.net
+https://vroid.com/studio
+hub.vroid.com
+neoket.net
+novel.pixiv.net
+pastela.app
+payment.pixiv.net
+premium.pixiv.net
+sensei.pixiv.net
+sketch.pixiv.net
+vroid.com
+www.pixiv.net
+CometBFT
+CosmWasm
+Cosmos SDK
+Hermes Relayer
+Horcrux
+Solidity IBC Eureka
+https://github.com/cosmos/gaia
+https://github.com/cosmos/iavl
+https://github.com/cosmos/ics23
+https://github.com/cosmos/ledger-cosmos
+ibc-go
+www.github.com/cosmos/evm
+com.affirm.central.audit
+com.affirm.internal.hackerone
+sandbox.affirm.com
+Crypto.com Exchange APIs that require an account
+Crypto.com Wallet Extension
+Crypto.com mobile app APIs that require an account
+app.mona.co
+co.mona.android
+com.defi.wallet
+com.defi.wallet
+com.monaco.mobile
+developer-api.crypto.com
+developer-platform-api.crypto.com
+developer.crypto.com
+https://crypto.com/exchange
+https://crypto.com/nft
+https://crypto.com/price
+https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
+https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
+js.crypto.com
+merchant.crypto.com
+nadex.com
+og.com
+tax.crypto.com
+travel.crypto.com
+web.crypto.com
+com.goodrx
+com.goodrx.iphone
+www.goodrx.com
+https://github.com/nodejs/node
+api.ort-one-pingone.com
+apps.ort-one-pingone.com
+auth.ort-one-pingone.com
+console.ort-one-pingone.com
+https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
+https://console.ort-one-pingone.com/?env=7f327541-54e0-4ba4-8335-65eac2a25b5e
+https://play.google.com/store/apps/dev?id=5503565801970655430&gl=gb
+https://play.google.com/store/apps/dev?id=8912907283039023448&gl=GB
+https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB
+https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk
+itv7.itv.com
+rafflee.co.uk
+super6.skysports.com
+1589023233
+All Other BitMEX Assets
+com.bitmex.app.android
+https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://testflight.apple.com/join/533gFghn
+testnet.bitmex.com
+www.bitmex.com
+CrowdStrike public infrastructure
+apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+falcon-sandbox.com
+hybrid-analysis.com
+onum-labs.com
+onum.com
+pangea.cloud
+play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
+www.crowdstrike.com
+www.crowdstrike.org
+Databricks Free Edition
+Open Scope
+accounts.cloud.databricks.com
+databricks.com
+https://dbc-9a3f8ed1-7608.cloud.databricks.com
+Beats
+Beats - Auditbeat
+Beats - Filebeat
+Beats - Heartbeat
+Beats - Metricbeat
+Beats - Osquerybeat
+Beats - Packetbeat
+Beats - Winlogbeat
+Elastic Agent
+Elastic Clients
+Elastic Cloud Enterprise (ECE)
+Elastic Cloud on Kubernetes (ECK)
+Elastic Defend
+Elastic Distributions of OpenTelemetry (EDOT)
+Elastic Enterprise Search
+Elastic Maps Server
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Elasticsearch
+Fleet Server
+Kibana
+Logstash
+Observability - APM Agents
+Observability - APM Server
+Other
+Software Supply Chain
+cloud.elastic.co
+elastic.co credentials
+GS Select iOS app
+api.foliofn.com
+apigw.foliofn.com
+com.gs.gsnow.external
+com.gs.gstrader.external
+com.gs.mobile.gsnow
+com.gs.mobile.trader
+com.gs.pfmg.wellness
+com.gs.pwmdigital.external
+com.gs.pwmdigital.external.android
+com.marcus.android
+com.marcus.android.uk
+com.marcus.ios-uk
+com.marcus.ios-us
+developer.gs.com
+goldmansachsindices.com
+marquee.gs.com
+research.gs.com
+983980808
+api.yoti.com
+ccloud.yoti.com
+code.yoti.com
+com.yoti.mobile.android.live
+core.yoti.com
+hub.yoti.com
+identity.yoti.com
+www.yotisign.com
+Steam Client
+Steam Servers
+api.steampowered.com
+com.valvesoftware.Steam
+com.valvesoftware.Steam
+developer.valvesoftware.com
+help.steampowered.com
+https://github.com/valvesoftware
+partner.steamgames.com
+partner.steampowered.com
+playartifact.com
+steamcommunity.com
+store.steampowered.com
+storefront.steampowered.com
+support.steampowered.com
+wiki.teamfortress.com
+www.counter-strike.net
+www.dota2.com
+www.teamfortress.com
+www.valvesoftware.com
+Any other Epic games owned asset not listed in the out of scope section
+EOS C# SDK
+EpicGamesLauncher.exe    
+EpicOnlineServices
+FortniteClient-Android-Shipping-arm64-es2.apk
+FortniteClient-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping_BE.exe
+FortniteLauncher-Win64-Shipping_EAC.exe
+FortniteLauncher.exe
+UEFN
+UnrealEditorFortnite-Win64-Shipping.exe
+aqtooling.com
+aquiris.com.br
+aquiris.studio
+aquiristech.com
+ballistic.com
+ballistic.com.br
+buckingfuggy.com
+capturingreality.com
+competitive.fortnite.com
+content-service-live-testing.bfda.live.use1a.on.epicgames.com
+content-service.bfda.live.use1a.on.epicgames.com
+cosmo.fdeb.live.use1a.on.epicgames.com
+create.fortnite.com
+fab.com
+fortnite.com
+forum.sketchfab.com
+harmonixmusic.com
+hc2services.com
+hc2tooling.com
+help.sketchfab.com
+hmxservices.com
+horizonchase.com
+horizonchase.com.br
+horizonchaseturbo.com
+http://nexus.live.ucs.on.epicgames.com/
+http://urc-auth-uefn.live.ucs.on.epicgames.com/
+http://urc-uefn.live.ucs.on.epicgames.com
+https://communities.epicgames.com
+https://fn-commerce-live.eeef.live.use1a.on.epicgames.com/api/fn-commerce/
+https://fngw-svc-ds-livefn.ol.epicgames.net/api/magpie
+https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
+id1520720139
+id1534920947
+innersloth.kidswebservices.com
+kidswebservices.com
+metahuman.unrealengine.com
+niantic.kidswebservices.com
+playwonderbox.com
+playwonderbox.com.br
+staging.kidswebservices.com
+twinmotion.unrealengine.com
+v1. kidswebservices.com
+v1staging.kidswebservices.com 
+wonderboxapi.com
+wonderboxdev.com
+AdwCleaner
+Any other Malwarebytes and ThreatDown asset
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+Malwarebytes Anti-Exploit
+Malwarebytes Privacy (VPN)
+Malwarebytes Remediation for CrowdStrike
+Malwarebytes Support Tool (MBST)
+Malwarebytes ToolSet (MBTS)
+Malwarebytes Windows Firewall Control
+Malwarebytes for Mac
+Malwarebytes for Teams
+Malwarebytes for Windows
+ThreatDown Browser Phishing Protection
+ThreatDown Device Control
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Patch Management
+USB Flash Drive Control
+blog.malwarebytes.com
+cloud.malwarebytes.com
+cloud.threatdown.com
+com.malwarebytes.Malwarebytes
+forums.malwarebytes.com
+https://oneview.threatdownstage.com
+my.malwarebytes.com
+oneview.threatdown.com
+org.malwarebytes.antimalware
+support.malwarebytes.com
+www.malwarebytes.com
+Capture the Flag
+Coda Chrome Extension
+Grammarly Browser Extensions
+Grammarly Desktop for Windows
+Grammarly Desktop for macOS
+Superhuman Go
+app.grammarly.com
+coda.grammarly.com
+coda.io
+codacontent.io
+codahosted.io
+com.grammarly.android.keyboard
+com.grammarly.keyboard
+gateway.superhuman.com
+id.superhuman.com
+io.coda
+io.coda.codaapp
+settings.superhuman.com
+superhuman.com
+351331194
+403684733
+6444040977
+930441707
+api.geneva-staging.com
+app.geneva-staging.chat
+app.geneva-staging.com
+badoo.com
+badoocdn.com
+bma.badoo.com
+bma.bumble.com
+ccardseu1.badoo.com
+ccardsus1.badoo.com
+chatdate.app
+com.badoo.mobile
+com.badoo.twa
+com.bumble.app
+com.bumblebff.app
+com.genevachat.staging
+com.hotornot.app
+corp.badoo.com
+deeplinks.geneva-staging.chat
+deeplinks.geneva-staging.com
+eu1.badoo.com
+gateway.geneva-staging.chat
+gateway.geneva-staging.com
+geneva-staging.chat
+go.geneva-staging.com
+hotornot.com
+https://testflight.apple.com/join/Y4cHu289
+links.geneva-staging.chat
+links.geneva-staging.com
+m.badoo.com
+meu1.badoo.com
+mus1.badoo.com
+payments.geneva-staging.chat
+payments.geneva-staging.com
+presence.geneva-staging.chat
+presence.geneva-staging.com
+router.geneva-staging.com
+social.geneva-staging.chat
+social.geneva-staging.com
+sockets.geneva-staging.chat
+sockets.geneva-staging.com
+translate.badoo.com
+us1.badoo.com
+web.geneva-staging.com
+www.bumble.com
+www.geneva-staging.chat
+www.geneva-staging.com
+Anchor
+Android SDK
+Core Assets
+Core Backstage source code
+DRM (Digital Rights Management) System
+GHE
+Jira
+Megaphone
+Non-Core Assets
+Okta
+Other Spotify websites
+Podsights
+Save to Spotify CLI
+Sonantic
+Spotify SDKs
+Spotify desktop application (Windows and Mac)
+VPN
+Web Playback SDK
+Wrapped
+api-partner.spotify.com
+api.spotify.com
+assets.spotify.com
+backstage.io
+com.anchorfminc.Anchor
+com.spotify.client
+com.spotify.kids
+com.spotify.kids
+com.spotify.music
+com.spotify.s4a
+com.spotify.s4a
+com.spotify.tv.android
+fm.anchor.android
+https://github.com/backstage/backstage
+https://www.whosampled.com/
+iOS SDK
+Roblox Client
+Roblox Engine
+Roblox Studio
+blox.link
+993135524
+Dyson Connected Products (IoT Hardware)
+Github findings
+Other Dyson Assets
+api.dyson.at
+api.dyson.be
+api.dyson.ch
+api.dyson.co.uk
+api.dyson.com
+api.dyson.de
+api.dyson.dk
+api.dyson.es
+api.dyson.fr
+api.dyson.ie
+api.dyson.it
+api.dyson.nl
+api.dyson.no
+api.dyson.pt
+api.dyson.se
+api.dysoncanada.ca
+api.fi.dyson.com
+com.dyson.mobile.android
+shop.dyson.co.za
+shop.dyson.tw
+www.dyson.ae
+www.dyson.at
+www.dyson.be
+www.dyson.ch
+www.dyson.cn
+www.dyson.co.il
+www.dyson.co.jp
+www.dyson.co.kr
+www.dyson.co.nz
+www.dyson.co.th
+www.dyson.co.uk
+www.dyson.com
+www.dyson.com.au
+www.dyson.com.ee
+www.dyson.com.mx
+www.dyson.com.ro
+www.dyson.com.sg
+www.dyson.com.tr
+www.dyson.com.ua
+www.dyson.cz
+www.dyson.de
+www.dyson.dk
+www.dyson.es
+www.dyson.fr
+www.dyson.hk
+www.dyson.hu
+www.dyson.ie
+www.dyson.in
+www.dyson.it
+www.dyson.my
+www.dyson.nl
+www.dyson.no
+www.dyson.pl
+www.dyson.pt
+www.dyson.se
+www.dyson.tw
+www.dyson.vn
+www.dysoncanada.ca
+www.fi.dyson.com
+www.gr.dyson.com
+www.sa.dyson.com
+1486322860
+905953485
+All Mobile Assets
+NordPass - Linux Executable
+NordPass - MacOS Executable
+NordPass - Windows Executable
+NordVPN - Linux Executable
+NordVPN - MacOS Executable
+NordVPN - Windows Executable
+NordVPN Browser Extension
+Saily - Android
+Saily - iOS
+app.nordpass.com
+com.nordpass.android.app.password.manager
+com.nordvpn.android
+com.nordvpn.android
+597940518
+cdna.lystit.com
+com.lyst.lystapp
+mobileapi.lystit.com
+auth.skypicker.com
+com.skypicker.Skypicker
+com.skypicker.main
+http://www.kiwi.com/stories
+jobs.kiwi.com
+tequila.kiwi.com
+www.kiwi.com
+https://github.com/discourse/discourse
+try.discourse.org
+Enjin - Ethereum ERC-1155 Contract
+Enjin Blockchain
+Enjin Coin - Ethereum ERC-20 Contract
+com.enjin.mobile.wallet
+com.enjin.mobile.wallet
+nft.io
+Nintendo Switch 2 Kernel / ARM® TrustZone®
+Nintendo Switch 2 Security controller known as PSC or Platform Security Controller (any component) / Security controller known as TSEC (bootROM only)
+Nintendo Switch 2 System Processes
+Nintendo Switch 2 System Processes allowing piracy
+Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
+Nintendo Switch System
+Nintendo Switch applications for which Nintendo is the publisher worldwide
+cdn.plaid.com
+dashboard.plaid.com
+demo.plaid.com
+https://github.com/plaid/plaid-link-android
+https://github.com/plaid/plaid-link-ios
+https://github.com/plaid/plaid-ruby
+https://github.com/plaid/react-native-plaid-link-sdk
+https://github.com/plaid/react-plaid-link
+my.plaid.com
+plaid.com
+production.plaid.com
+secure.plaid.com
+Leaked/Сompromised Employee accounts
+Other Semrush Related Asset
+investors.semrush.com
+workflows.semrush.com
+com.quora.android
+com.quora.app.mobile
+http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+Burp Collaborator
+Burp Suite DAST
+Burp Suite Extension (BApps)
+Burp Suite Pro/Community
+ai.portswigger.net
+collections.portswigger.net
+http1mustdie.com
+links.portswigger.net
+portswigger.net
+share.portswigger.net
+FIles.com REST API
+Files.com Command Line Interface (CLI) App
+Files.com Desktop v4 App (previously known as Desktop App) 
+Files.com Desktop v6 App
+Files.com Mobile App
+Files.com On-Premise Agent
+Files.com SDK's
+app.files.com
+www.files.com
+your-assigned-subdomain.files.com
+Any subdomain application issue
+Any subdomain infrastructure issue
+Exness Investor
+Exness Social Trading
+Exness Trade: Online Trading
+External service data leakage 
+api.excalls.mobi
+com.exness.android.pa
+com.exness.investments
+exness.com
+exnessaffiliates.com
+https://my.exness.com/pa/pim/manager
+https://my.exness.com/pa/socialtrading
+https://my.exness.com/webtrading/
+my.exness.com
+pay.ibex.exchange
+pwapi.ex2b.com
+social-trading.exness.com
+BBPress Core
+BuddyPress Core
+GlotPress
+Gutenberg
+Official WordPress plugins
+WP-CLI
+WordPress Core
+api.wordpress.org
+codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+doaction.org
+irclogs.wordpress.org
+lists.wordpress.org
+mercantile.wordpress.org
+planet.wordpress.org
+wordpressfoundation.org
+Other assets
+Subdomain Takeover (SDTO)
+app.starbucks.com
+com.starbucks.mobilecard
+com.starbucks.mystarbucks
+openapi.starbucks.com
+secureui.starbucks.com
+www.starbucks.ca
+www.starbucks.com
+www.starbucksreserve.com
+https://github.com/ruby/ruby
+Rockstar Games Launcher
+circolocorecords.com/
+prod.ros.rockstargames.com
+rockstarnorth.com
+socialclub.rockstargames.com
+store.rockstargames.com
+support.rockstargames.com
+www.rockstargames.com
+Copilot
+Copilot Chat on dotcom
+Copilot Coding Agent
+Copilot Spaces
+Copilot for Business
+Dependabot
+GitHub CLI
+GitHub CSP
+GitHub Desktop
+GitHub Enterprise Cloud
+GitHub Enterprise Cloud with Data Residency (GHEC-DR)
+GitHub Enterprise Server
+GitHub Pages
+GitHub Production Credentials
+GitHub Spark
+GitHub for mobile
+api.github.com
+classroom.github.com
+education.github.com
+gist.github.com
+github.com
+npm CLI
+npmjs.com
+npmjs.org
+com.wealthsimple
+com.wealthsimple.wealthsimple
+434613896
+6670203019
+6670536058
+960335206
+All Assets (other than Blinkit)
+Data Protection Program
+Scope Questions: Items not explicitly listed here
+Tier 1
+Tier 2
+Tier 3
+api.grofers.com
+api2.grofers.com
+bistro-api.blinkit.com
+blinkit.com
+com.application.zomato
+com.application.zomato.district
+com.application.zomatomerchant
+com.blinkit.bistro
+com.grofers.customerapp
+https://mcp-server.zomato.com/mcp
+winecellar.zomato.com
+Tor
+Tor Browser
+academy.deriv.com
+api.deriv.com
+app.deriv.com
+cashier.deriv.com
+ct.deriv.com
+deriv.partners
+derivws.com
+dx-demo.deriv.com
+dx.deriv.com
+github.com/binary-com
+github.com/deriv-com
+oauth.deriv.com
+partners.deriv.com
+secure-dfadmin.deriv.com
+smarttrader.deriv.com
+547702041
+com.tinder
+fetlife.com
+fetlifemail.com
+1142114207
+1257641454
+1343620481
+1481198245
+647268330
+C100447517
+C103149579
+api.grabpay.com
+com.grab.merchant
+com.grabpay.merchant
+com.grabtaxi.driver2
+com.grabtaxi.passenger
+com.moveit.app.customer
+gamma.grab.co
+gifts.grab.com
+grab.careers
+hungrygowhere.com
+jira.grab.com
+kartaview.org
+manage.grab.co
+ovo.id
+p.grabtaxi.com
+wiki.grab.com
+xtramile.grabpay.com
+authentication.clearme.com
+clearme.atlassian.net
+clearme.com
+com.clearme.Clear
+com.clearme.clearapp
+concierge.clearme.com
+enroll.clearme.com
+http://verified.clearme.com/dashboard
+identity.clearme.com
+ir.clearme.com
+mobile.clearme.com
+my.clearme.com
+scan.clearme.com
+verified.clearme.com
+verified.clearme.com/v1/verification_sessions
+web-edge.clearme.com
+www.clearme.com
+com.moneybird.Moneybird
+com.moneybird.android
+moneybird.com
+moneybirdstorage.com
+www.udemy.com
+yourcompany.udemy.com
+business.kayak.com
+com.kayak.android
+com.kayak.travel
+kayak.ai
+www.cheapflights.com
+www.checkfelix.com
+www.hotelscombined.com
+www.kayak.com
+www.momondo.com
+www.mundi.com.br
+www.swoodoo.com
+3.basecamp.com
+Basecamp.app
+HEY.app
+HEY.exe
+basecamp3.exe
+com.basecamp.bc3
+com.basecamp.bc3-ios
+com.basecamp.hey
+com.hey.app.ios
+fizzy.do
+hey-mail
+https://github.com/basecamp/once-campfire
+https://github.com/basecamp/writebook
+launchpad.37signals.com
+world.hey.com
+Shopify Developed Apps
+Shopify Mobile Applications
+Shopify Third Party Apps
+Shopify Third Party Store
+accounts.shopify.com
+admin.shopify.com
+arrive-server.shopifycloud.com
+linkpop.com
+partners.shopify.com
+shop.app
+shopify.plus
+shopifyinbox.com
+your-store.myshopify.com
+api.mapbox.com
+https://docs.mapbox.com/
+https://docs.mapbox.com/android/
+https://docs.mapbox.com/ios/maps/overview/
+https://github.com/mapbox
+https://www.mapbox.com/mapbox-gl-js/
+www.mapbox.com
+Localized airbnb sites listed at the link below:
+api.airbnb.com
+assets.airbnb.com
+callbacks.airbnb.com
+com.airbnb.android
+com.airbnb.app
+com.luxuryretreats.ios
+m.airbnb.com
+next.airbnb.com
+one.airbnb.com
+open.airbnb.com
+support-api.airbnb.com
+www.airbnb.com
+www.hoteltonight.com
+accommodations.booking.com
+account.booking.com
+admin.booking.com
+autocomplete.booking.com
+booking.com
+careers.booking.com
+cars.booking.com
+chat.booking.com
+compass.fareharbor.com
+demo.fareharbor.com
+distribution-xml.booking.com
+experiences.booking.com
+fareharborsites.com
+fhdn.fareharbor.com
+flights.booking.com
+http://secure-iphone-xml.booking.com/json/
+https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
+https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
+https://iphone-xml.booking.com/json/
+https://play.google.com/store/apps/details?id=com.booking&hl=en
+https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
+https://secure-iphone-xml.booking.com/json/
+indicative-pricing.taxi.booking.com
+kyc-onboarding.booking.com
+marketing.fareharbor.com
+metasearch-api.booking.com
+paybridge.booking.com
+paymentcomponent.booking.com
+paynotifications.booking.com
+phone-validation.taxi.booking.com
+portal.taxi.booking.com
+readonly.fareharbor.com
+secure-supply-xml.booking.com
+secure.booking.com
+sites.fareharbor.com
+spark.fareharbor.com
+supplier.auth.toag.booking.com
+supply-xml.booking.com
+tableau.fareharbor.engineering
+taxi.booking.com
+taxis.booking.com
+teleport.fareharbor.engineering
+webhooks.booking.com
+widget.rentalcars.com
+www.fareharbor.com
+airtable.js SDK (https://www.npmjs.com/package/airtable)
+api-staging.airtable.com
+staging.airtable.com
+Acrobat AI Assistant
+Acrobat Create Podcast
+Acrobat Create Presentations
+Acrobat PDF Spaces
+Acrobat Reader
+Adobe Acrobat Reader DC
+Adobe Commerce, Commerce B2B and Commerce Open Source
+After Effects
+Animate
+Audition
+Behance Freelance Job creation
+Bridge
+C2PA Tool
+Character Animator
+ColdFusion
+Dimension
+Dreamweaver
+Express AI Assistant
+Firefly Image Models
+Firefly Video Model
+Framemaker
+Illustrator
+InCopy
+InDesign
+Lightroom "Edit suggestions" Tech Preview
+Lightroom AI Edits
+Lightroom Classic
+Media Encoder
+Other
+Photoshop
+Photoshop AI Assistant
+Premiere Pro
+Premiere Rush
+Stock AI Studio
+Substance 3D
+XD
+account.adobe.com
+account.magento.com
+adobe.fresco.ios
+adobeid-na1.services.adobe.com
+auth.services.adobe.com
+com.adobe.Adobe-Reader
+com.adobe.PSMobile
+com.adobe.lrmobile
+com.adobe.lrmobile
+com.adobe.reader
+com.adobe.scan.android
+com.adobe.scan.ios
+com.adobe.workfront
+com.frame.FrameIO
+com.iphone.workfront
+commercemarketplace.adobe.com
+contributor.stock.adobe.com
+firefly.adobe.com
+fonts.adobe.com
+http://federatedid-na1.services.adobe.com
+http://ims-na1.adobelogin.com
+https://contentcredentials.org/
+https://github.com/contentauth/c2pa-js
+https://github.com/contentauth/c2pa-rs
+learningmanagerstage4.adobe.com
+magento.com
+net.s2stagehance.com
+new.express.adobe.com
+photos.adobe.io
+photoshop.adobe.com
+portfolio.ccpsx.com
+repo.magento.com
+stock.adobe.com
+ UniFi OS Server
+AmpliFi
+Cloudkey
+EdgeMAX
+UCRM
+UFiber
+UID
+UISP
+UNMS
+UniFi
+UniFi Access
+UniFi Cloud
+UniFi Connect
+UniFi Gateways (UDM, UXG, USG)
+UniFi LED
+UniFi Network Application
+UniFi Protect
+UniFi Switches
+UniFi Talk
+UniFi Wireless Access Points
+account.ui.com
+airFiber
+airMAX
+blog.ui.com
+careers.ui.com
+com.ubnt.discovery.app
+com.ubnt.easyunifi
+com.ubnt.ucrm
+com.ubnt.umobile
+community.ui.com
+design.ui.com
+dev-training.ui.com
+fw-update.ubnt.com
+help.ui.com
+help.uisp.com
+https://ui.com/distributors/
+https://ui.com/training/partners/
+ir.ui.com
+ispdesign.ui.com
+rma.ui.com
+store.ui.com
+training.ui.com
+uisp.com
+unifi.ui.com
+wiki.ui.com
+Lens Studio
+Tier A - Core Assets
+Tier B - Non Core (Bitmoji, Playcanvas)
+accounts.snapchat.com
+ads.snapchat.com
+app.snapchat.com
+blog.playcanvas.com
+business.snapchat.com
+businesshelp.snapchat.com
+code.playcanvas.com
+com.bitstrips.imoji
+com.bitstrips.imoji
+com.snapchat.android
+com.toyopagroup.picaboo
+create.snapchat.com
+developer.playcanvas.com
+forum.playcanvas.com
+geofilters.snapchat.com
+https://lensstudio.snapchat.com/api/
+kit.snapchat.com
+launch.playcanvas.com
+login.playcanvas.com
+map.snapchat.com
+msg.playcanvas.com
+my.snapchat.com
+playcanv.as
+playcanvas.com
+relay.playcanvas.com
+rt.playcanvas.com
+scan.snapchat.com
+snappublisher.snapchat.com
+spectacles.com
+store.playcanvas.com
+store.snapchat.com
+story.snapchat.com
+web.snapchat.com
+www.bitmoji.com
+www.bitstrips.com
+336381998
+Penny
+bookingholdings-coe.com
+com.priceline.android.negotiator
+cruises.priceline.com
+flyiin.com
+https://www.priceline.com/pwd/v0/pcln-graphql/
+ir.bookingholdings.com
+press.priceline.com
+priceline.com
+www.bookingholdings.com
+www.getaroom.com
+www.priceline.com
+Recon Data
+uber.com
+284910350
+542767785
+936983378
+com.yelp.android
+com.yelp.android.biz
+yelptop100.com
+1491791513
+425194759
+486781045
+493086499
+Livestream software (Producer, Studio)
+VHX Branded Customer Android Apps
+VHX Branded Customer Roku Apps
+VHX Branded Customer iOS Apps
+api.vhx.tv
+api.vimeo.com
+applause1.magisto.com
+channelstore.roku.com/details/48061/vhx
+checkout.vimeo.com
+com.livestream.livestream
+com.magisto
+com.vimeo.android.videoapp
+com.vimeocreate.videoeditor.moviemaker
+donations.livestream.com
+embed.vhx.tv
+http://vimeo.com/api
+http://vimeo.com/create
+http://vimeo.com/ondemand
+magisto.com,www.magisto.com
+player.vimeo.com
+staging.magisto.com
+vhx.tv
+vimeo.magisto.com
+vimeopro.com
+www.livestream.com
+www.vimeo.com
+288429040
+api.linkedin.com
+business.linkedin.com
+com.linkedin.android
+www.linkedin.com
+Tier 1 Assets
+Tier 2 Assets
+Tier 3 Assets
+api.greenhouse.io
+app.greenhouse.io
+app.interseller.io
+boards.greenhouse.io
+interseller.io
+jss.greenhouse.io
+onboarding.greenhouse.io
+support.greenhouse.io
+www.greenhouse.io
+GitLab for Jira Cloud
+Other non-production infrastructure
+Your Own GitLab Instance
+about.gitlab.com
+advisories.gitlab.com
+customers.gitlab.com
+design.gitlab.com
+docs.gitlab.com
+gitlab.com
+https://gitlab.com/gitlab-org/gitaly
+https://gitlab.com/gitlab-org/gitlab
+https://gitlab.com/gitlab-org/gitlab-pages
+https://gitlab.com/gitlab-org/gitlab-runner
+https://gitlab.com/gitlab-org/gitlab-shell
+https://gitlab.com/gitlab-org/gitlab-vscode-extension
+https://gitlab.com/gitlab-org/opstrace/opstrace
+registry.gitlab.com
+ai.x.GrokApp
+ai.x.grok
+chat.x.com
+com.atebits.Tweetie2
+com.twitter.android
+gnip.com
+grok.com
+grokipedia.com
+money.x.com
+t.co
+x.com
+xadsacademy.com
+1.1.1.1 Resolver
+AI Gateway
+AMP Real URL
+API Shield
+Area 1
+Bot Management
+Browser Isolation
+CDNJS
+China Network
+Cloudflare Access
+Cloudflare Analytics
+Cloudflare CASB
+Cloudflare Cache 
+Cloudflare D1
+Cloudflare DNS
+Cloudflare Durable Objects
+Cloudflare Pages
+Cloudflare R2
+Cloudflare Tunnel
+Cloudflare Workers CI
+Cloudflare Zaraz
+Cloudflare Zero Trust/Cloudflare One
+Data Loss Prevention (DLP)
+Gateway
+Hyperdrive
+Images
+Load Balancing
+Magic Firewall
+Magic Transit
+Magic WAN
+Open source tools from Cloudflare
+SSL/TLS
+Spectrum
+Stream
+Turnstile
+Vectorize
+WARP Mobile Apps
+WARP desktop client
+Waiting Room
+Workers
+Workers AI
+Workers KV
+api.cloudflare.com
+cloudflareworkers.com
+dash.cloudflare.com
+http://github.com/cloudflare
+https://github.com/cloudflare/vinext
+https://github.com/cloudflare/workerd
+one.dash.cloudflare.com
+waf.cumulusfire.net
+Beeper
+Crowdsignal
+Jetpack
+Texts
+WP Cloud
+WooCommerce
+WordPress Plugins & Themes
+WordPress VIP
+akismet.com
+api.tumblr.com
+assets.tumblr.com
+clay.earth
+com.clay.ios
+com.tumblr
+com.tumblr.tumblr
+embed.tumblr.com
+gravatar.com
+intensedebate.com
+mailpoet.com
+my.pressable.com
+parse.ly
+safe.tumblr.com
+secure.tumblr.com
+simperium.com
+simplenote.com
+t.umblr.com
+wordpress.com
+wpscan.com
+www.tumblr.com
+54.175.255.192/27
+Coinbase WaaS (Wallet as a Service)
+Other
+Web3 Smart Contracts
+api.coinbase.com
+api.custody.coinbase.com
+cloud.coinbase.com
+coinbase.com
+com.coinbase.android
+com.coinbase.wallite
+com.vilcsak.bitcoin2
+commerce.coinbase.com
+custody.coinbase.com
+http://coinbase.com
+https://base.org
+https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
+https://github.com/coinbase/cb-mpc
+https://github.com/coinbase/cb-mpc-go
+institutional.coinbase.com
+international.coinbase.com
+nft.coinbase.com
+org.toshi
+org.toshi.distribution
+prime.coinbase.com
+pro.coinbase.com
+Slack Desktop Application
+api.slack.com
+app.slack.com
+com.Slack
+com.slack.slackmdm
+com.tinyspeck.chatlyio
+edgeapi.slack.com
+https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
+https://github.com/slackhq/nebula
+https://salesforce.quip.com/blog/desktop
+slack-imgs.com
+slack-redir.net
+slack-status.com
+slack.com
+slackatwork.com
+slackb.com
+spaces.pm
+www.quip.com
+a5s.hackerone-ext-content.com
+api.hackerone.com
+app.pullrequest.com
+b5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
+ctf.hacker101.com
+errors.hackerone.net
+hackathon-photos-us-east-2.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
+hackerone-ext-content.com
+hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
+hackerone-user-content.com
+hackerone.com
+hackerone.live
+https://github.com/Hacker0x01/react-datepicker
+mta-sts.wearehackerone.com
+profile-photos-us-east-2.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
+www.hackerone.com
+www.wearehackerone.com
