@@ -1,0 +1,90 @@
+name: Autonomous Scope Hunt Trigger
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  detect-and-trigger:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Set git identity
+        run: |
+          git config --global user.name "automation-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+
+      - name: Fetch bounty-targets-data
+        uses: actions/checkout@v4
+        with:
+          repository: arkadiyt/bounty-targets-data
+          path: bounty-targets-data
+          fetch-depth: 1
+
+      - name: Extract paid assets
+        run: |
+          mkdir -p data
+          jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' bounty-targets-data/data/bugcrowd_data.json | grep -v '\*' > data/bugcrowd.txt || :
+          jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier' bounty-targets-data/data/hackerone_data.json | grep -v '\*' > data/hackerone.txt || :
+
+      - name: Merge assets
+        run: |
+          cat data/* > assets.out || :
+          sort -u assets.out -o assets.out
+
+      - name: Find new assets
+        run: |
+          if [ -f .previous_assets ]; then
+            grep -Fxvf .previous_assets assets.out > new_added_assets.out || :
+            cat assets.out >> .previous_assets
+            sort -u .previous_assets -o .previous_assets
+          else
+            cp assets.out .previous_assets
+            : > new_added_assets.out
+          fi
+
+      - name: Trigger Kali webhook for each new scope
+        run: |
+          if [ -s new_added_assets.out ]; then
+            while read asset; do
+              echo "Triggering hunt for: $asset"
+
+              RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "${{ secrets.KALI_WEBHOOK_URL }}/webhook/new-scope" \
+                -H "Content-Type: application/json" \
+                -H "x-webhook-secret: ${{ secrets.WEBHOOK_SECRET }}" \
+                -d "{
+                  \"domain\": \"${asset}\",
+                  \"program\": \"unknown\",
+                  \"platform\": \"mixed\"
+                }")
+
+              HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+              BODY=$(echo "$RESPONSE" | head -n1)
+
+              echo "Response: $BODY"
+              echo "Status: $HTTP_CODE"
+
+              if [ "$HTTP_CODE" != "200" ]; then
+                echo "Failed to trigger webhook for $asset"
+              fi
+            done < new_added_assets.out
+          else
+            echo "No new scopes found."
+          fi
+
+      - name: Commit updated asset baseline
+        run: |
+          git add .previous_assets assets.out new_added_assets.out data/ || :
+          git diff --cached --quiet && exit 0
+          git commit -m "Update tracked scopes $(date -u)"
+          git push
