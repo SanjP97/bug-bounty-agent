@@ -34,47 +34,60 @@ jobs:
       - name: Extract paid assets
         run: |
           mkdir -p data
+
           jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' \
             bounty-targets-data/data/bugcrowd_data.json \
             | grep -v '\*' \
             | sed -E 's#^https?://##; s#/.*$##' \
+            | sed '/^[[:space:]]*$/d' \
             > data/bugcrowd.txt || :
+
           jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier' \
             bounty-targets-data/data/hackerone_data.json \
             | grep -v '\*' \
             | sed -E 's#^https?://##; s#/.*$##' \
+            | sed '/^[[:space:]]*$/d' \
             > data/hackerone.txt || :
 
       - name: Merge assets
         run: |
           cat data/* > assets.out || :
           sort -u assets.out -o assets.out
+          echo "Total assets extracted: $(wc -l < assets.out)"
 
-      - name: Find new assets
+      - name: Initialize baseline from now
         run: |
-          if [ -f .previous_assets ]; then
-            grep -Fxvf .previous_assets assets.out > new_added_assets.out || :
-            cat assets.out >> .previous_assets
-            sort -u .previous_assets -o .previous_assets
-          else
-            cp assets.out .previous_assets
+          if [ ! -f .baseline_assets ]; then
+            cp assets.out .baseline_assets
             : > new_added_assets.out
+            echo "Baseline initialized from current assets. Monitoring starts now."
+            exit 0
           fi
 
-          echo "Total assets: $(wc -l < assets.out)"
-          echo "New assets: $(wc -l < new_added_assets.out)"
+      - name: Find assets added after baseline
+        run: |
+          grep -Fxvf .baseline_assets assets.out > new_added_assets.out || :
+
+          echo "New assets after baseline: $(wc -l < new_added_assets.out)"
+
           if [ -s new_added_assets.out ]; then
             echo "New assets found:"
             cat new_added_assets.out
+          else
+            echo "No new assets found."
           fi
 
-      - name: Trigger Kali webhook and send Telegram alert
+      - name: Trigger Kali webhook and send one Telegram summary
         run: |
           if [ -s new_added_assets.out ]; then
+            rm -f successful_assets.tmp
+
             while IFS= read -r asset; do
+              [ -z "$asset" ] && continue
+
               echo "Triggering hunt for: $asset"
 
-              RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "${{ secrets.KALI_WEBHOOK_URL }}/webhook/new-scope" \
+              RESPONSE=$(curl -sS -w "\n%{http_code}" -X POST "${{ secrets.KALI_WEBHOOK_URL }}/webhook/new-scope" \
                 -H "Content-Type: application/json" \
                 -H "x-webhook-secret: ${{ secrets.WEBHOOK_SECRET }}" \
                 -d "{
@@ -90,22 +103,44 @@ jobs:
               echo "Status: $HTTP_CODE"
 
               if [ "$HTTP_CODE" = "200" ]; then
-                MSG=$(printf "New scope queued for scanning\nAsset: %s\nWorkflow: %s\nRepo: %s\nRun: https://github.com/%s/actions/runs/%s" \
-                  "$asset" \
-                  "${{ github.workflow }}" \
-                  "${{ github.repository }}" \
-                  "${{ github.repository }}" \
-                  "${{ github.run_id }}")
-
-                curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
-                  --data "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
-                  --data-urlencode "text=${MSG}" > /dev/null
-
-                echo "Telegram alert sent for: $asset"
+                echo "$asset" >> successful_assets.tmp
+                echo "Queued successfully: $asset"
               else
                 echo "Failed to trigger webhook for $asset (HTTP $HTTP_CODE)"
               fi
             done < new_added_assets.out
+
+            if [ -f successful_assets.tmp ] && [ -s successful_assets.tmp ]; then
+              SUCCESS_COUNT=$(wc -l < successful_assets.tmp)
+              SUCCESS_LIST=$(head -n 20 successful_assets.tmp)
+
+              MSG=$(printf "Queued %s new assets since monitoring began\n\n%s\n\nWorkflow: %s\nRepo: %s\nRun: https://github.com/%s/actions/runs/%s" \
+                "$SUCCESS_COUNT" \
+                "$SUCCESS_LIST" \
+                "${{ github.workflow }}" \
+                "${{ github.repository }}" \
+                "${{ github.repository }}" \
+                "${{ github.run_id }}")
+
+              curl -sS -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+                --data "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+                --data-urlencode "text=${MSG}" > /dev/null
+
+              echo "Sent one Telegram summary for $SUCCESS_COUNT assets"
+            else
+              echo "No successful webhook submissions; no Telegram summary sent."
+            fi
           else
             echo "No new scopes found."
           fi
+
+      - name: Update baseline after successful comparison
+        run: |
+          cp assets.out .baseline_assets
+
+      - name: Commit monitoring state
+        run: |
+          git add .baseline_assets assets.out new_added_assets.out data/ || :
+          git diff --cached --quiet && exit 0
+          git commit -m "Update scope monitoring baseline $(date -u)"
+          git push
