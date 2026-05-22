@@ -55,20 +55,19 @@ jobs:
           sort -u assets.out -o assets.out
           echo "Total assets extracted: $(wc -l < assets.out)"
 
-      - name: Initialize baseline from now
+      - name: Initialize previous_assets if missing
         run: |
-          if [ ! -f .baseline_assets ]; then
-            cp assets.out .baseline_assets
+          if [ ! -f .previous_assets ]; then
+            cp assets.out .previous_assets
             : > new_added_assets.out
-            echo "Baseline initialized from current assets. Monitoring starts now."
-            exit 0
+            echo "Initialized .previous_assets from current snapshot. Monitoring starts now."
           fi
 
-      - name: Find assets added after baseline
+      - name: Find new assets since previous snapshot
         run: |
-          grep -Fxvf .baseline_assets assets.out > new_added_assets.out || :
+          grep -Fxvf .previous_assets assets.out > new_added_assets.out || :
 
-          echo "New assets after baseline: $(wc -l < new_added_assets.out)"
+          echo "New assets since previous snapshot: $(wc -l < new_added_assets.out)"
 
           if [ -s new_added_assets.out ]; then
             echo "New assets found:"
@@ -114,7 +113,7 @@ jobs:
               SUCCESS_COUNT=$(wc -l < successful_assets.tmp)
               SUCCESS_LIST=$(head -n 20 successful_assets.tmp)
 
-              MSG=$(printf "Queued %s new assets since monitoring began\n\n%s\n\nWorkflow: %s\nRepo: %s\nRun: https://github.com/%s/actions/runs/%s" \
+              MSG=$(printf "Queued %s new assets since previous snapshot\n\n%s\n\nWorkflow: %s\nRepo: %s\nRun: https://github.com/%s/actions/runs/%s" \
                 "$SUCCESS_COUNT" \
                 "$SUCCESS_LIST" \
                 "${{ github.workflow }}" \
@@ -134,13 +133,13 @@ jobs:
             echo "No new scopes found."
           fi
 
-      - name: Update baseline after successful comparison
+      - name: Update previous snapshot
         run: |
-          cp assets.out .baseline_assets
+          cp assets.out .previous_assets
 
       - name: Commit monitoring state
         run: |
-          git add .baseline_assets assets.out new_added_assets.out data/ || :
+          git add .previous_assets assets.out new_added_assets.out data/ || :
           git diff --cached --quiet && exit 0
-          git commit -m "Update scope monitoring baseline $(date -u)"
+          git commit -m "Update scope snapshot $(date -u)"
           git push
