@@ -90,11 +90,12 @@ jobs:
               echo "Status: $HTTP_CODE"
 
               if [ "$HTTP_CODE" = "200" ]; then
-                MSG="New scope queued for scanning
-Asset: ${asset}
-Workflow: ${{ github.workflow }}
-Repo: ${{ github.repository }}
-Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+                MSG=$(printf "New scope queued for scanning\nAsset: %s\nWorkflow: %s\nRepo: %s\nRun: https://github.com/%s/actions/runs/%s" \
+                  "$asset" \
+                  "${{ github.workflow }}" \
+                  "${{ github.repository }}" \
+                  "${{ github.repository }}" \
+                  "${{ github.run_id }}")
 
                 curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
                   --data "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
@@ -104,15 +105,7 @@ Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id 
               else
                 echo "Failed to trigger webhook for $asset (HTTP $HTTP_CODE)"
               fi
-
             done < new_added_assets.out
           else
             echo "No new scopes found."
           fi
-
-      - name: Commit updated asset baseline
-        run: |
-          git add .previous_assets assets.out new_added_assets.out data/ || :
-          git diff --cached --quiet && exit 0
-          git commit -m "Update tracked scopes $(date -u)"
-          git push
