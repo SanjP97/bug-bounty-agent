@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+    inputs:
+      reset_snapshot:
+        description: "Reset .previous_assets to current assets.out and exit without alerts"
+        required: false
+        default: "false"
 
 permissions:
   contents: write
@@ -63,15 +68,36 @@ jobs:
             echo "Initialized .previous_assets from current snapshot. Monitoring starts now."
           fi
 
+      - name: Reset snapshot if requested
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.reset_snapshot == 'true' }}
+        run: |
+          cp assets.out .previous_assets
+          : > new_added_assets.out
+          echo "Snapshot reset completed. No alerts will be sent in this run."
+
+      - name: Commit reset snapshot
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.reset_snapshot == 'true' }}
+        run: |
+          git add .previous_assets assets.out new_added_assets.out data/ || :
+          git diff --cached --quiet && exit 0
+          git commit -m "Reset scope snapshot $(date -u)"
+          git push
+
+      - name: Stop after reset
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.reset_snapshot == 'true' }}
+        run: exit 0
+
       - name: Find new assets since previous snapshot
         run: |
           grep -Fxvf .previous_assets assets.out > new_added_assets.out || :
 
-          echo "New assets since previous snapshot: $(wc -l < new_added_assets.out)"
+          echo "previous_assets count: $(wc -l < .previous_assets)"
+          echo "assets.out count: $(wc -l < assets.out)"
+          echo "new_added_assets.out count: $(wc -l < new_added_assets.out)"
 
           if [ -s new_added_assets.out ]; then
             echo "New assets found:"
-            cat new_added_assets.out
+            head -n 50 new_added_assets.out
           else
             echo "No new assets found."
           fi
