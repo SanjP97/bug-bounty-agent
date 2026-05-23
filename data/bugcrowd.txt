@@ -906,16 +906,6 @@ play.google.com
 apps.apple.com
 chromewebstore.google.com
 Any host
-developers.intercom.com
-api.intercom.com
-app.intercom.com
-app.intercom.io
-developers.intercom.com
-www.intercom.com
-mcp.intercom.com
-api-iam.intercom.io
-fin.ai
-app.fin.ai
 www.carsdirect.com
 pets.webmd.com
 member.webmd.com
@@ -977,6 +967,8 @@ marketplace.atlassian.com
 marketplace.atlassian.com
 marketplace.atlassian.com
 marketplace.atlassian.com
+apps.apple.com
+play.google.com
 apps.apple.com
 play.google.com
 api-payments-secure-prod.skippayments.com
