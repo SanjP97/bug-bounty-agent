@@ -1,7 +1,5 @@
 data-api.coindesk.com
 tools-api.cryptocompare.com
-data-api.coindesk.com
-tools-api.cryptocompare.com
 acorns.com
 apps.apple.com
 graphql.acorns.com
@@ -1388,6 +1386,8 @@ nubank.com.mx
 nubank.com.co
 www.nuinvest.com.br
 octopus.com
+octopus.com
+github.com
 octopus.com
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
